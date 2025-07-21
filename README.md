@@ -1,0 +1,2 @@
+# finance-oneword-domains
+List of Finance one word domain names with availability, expiration date, attractiveness, demand score.
