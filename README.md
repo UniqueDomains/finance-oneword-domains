@@ -1,17 +1,17 @@
 
-# **Finance One-Word Domain Names**: Daily Updated List of Available Domains
+# **finance One-Word Domain Names**: Daily Updated List of Available Domains
 
-This regularly updated dataset includes the latest available Finance one-word domains.
+This regularly updated dataset includes the latest available finance one-word domains.
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/finance-oneword-domains.svg?style=flat)]() 
 
 > [!TIP]
-> This dataset provide you 10,000 high quality **Finance one word domains**.
-> If you need more, access the complete database of **[one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Finance&utm_content=description.top)**.
+> This dataset provide you 10,000 high quality **finance one word domains**.
+> If you need more, access the complete database of **[one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=finance&utm_content=description.top)**.
 
 # What's Included in the Dataset
 
-- **Domain Name**: High-quality, single-word Finance domains.
+- **Domain Name**: High-quality, single-word finance domains.
 - **Status**: The current status of the domain: Available, Expired, Expiring, For Sale, ...
 - **Attractiveness**: The attractiveness score of the domain, evaluated by the word type, length, sentiment, popularity and brandability. The higher the score, the more attractive the domain is at eyes of people.
 - **Demand**: The buyer pressure for domain names based on this word. 0 is no demand, and 100 is high probability of being sold soon. Formula: domains sold with this word / total domains tested with this word.
@@ -21,44 +21,44 @@ This regularly updated dataset includes the latest available Finance one-word do
 - **Registrar**: The registrar of the domain.
 - **Buy Link**: Direct link to purchase the domain.
 
-| domain           | status    | attractiveness | demand | length | created          | expires          | registrar                               | sectors                         |
-| ---------------- | --------- | -------------- | ------ | ------ | ---------------- | ---------------- | --------------------------------------- | ------------------------------- |
-| trust.expert     | available | 124            | 92     | 5      |                  |                  |                                         | Business,Finance,Law            |
-| trust.it         | expiring  | 124            | 92     | 5      | 06/02/1997 00:00 | 01/08/2025 00:00 |                                         | Business,Finance,Law            |
-| steady.me        | expiring  | 122            | 80     | 6      | 17/07/2008 17:28 | 17/07/2025 17:28 | GoDaddy.com, LLC                        | Business,Finance,Healthcare     |
-| count.pro        | sold      | 122            | 72     | 5      | 30/05/2018 10:20 | 30/05/2026 10:20 | Dynadot Inc                             | Business,Finance,General        |
-| own.at           | available | 122            | 92     | 3      |                  |                  |                                         | Business,Finance,Real Estate    |
-| count.gg         | resell    | 122            | 72     | 5      |                  |                  | humbly, LLC (http://park.io)            | Business,Finance,General        |
-| count.store      | available | 122            | 72     | 5      |                  |                  |                                         | Business,Finance,General        |
-| count.me         | available | 122            | 72     | 5      |                  |                  |                                         | Business,Finance,General        |
-| firm.io          | resell    | 118            | 76     | 4      | 29/02/2012 11:58 | 01/03/2026 11:58 | Porkbun LLC                             | Business,Finance,Law            |
-| firm.us          | resell    | 118            | 76     | 4      | 24/04/2002 14:02 | 23/04/2026 23:59 | GoDaddy.com, LLC                        | Business,Finance,Law            |
-| firm.store       | available | 118            | 76     | 4      |                  |                  |                                         | Business,Finance,Law            |
-| firm.at          | sold      | 118            | 76     | 4      |                  |                  | registrant:     IISP622845-NICAT        | Business,Finance,Law            |
-| firm.co          | available | 118            | 76     | 4      |                  |                  |                                         | Business,Finance,Law            |
-| trade.dev        | resell    | 116            | 92     | 5      | 21/02/2019 16:00 | 21/02/2026 16:00 | Go Australia Domains, LLC               | Business,Finance,General,Retail |
-| trade.store      | available | 116            | 92     | 5      |                  |                  |                                         | Business,Finance,General,Retail |
-| trade.tech       | available | 116            | 92     | 5      |                  |                  |                                         | Business,Finance,General,Retail |
-| plus.site        | available | 116            | 92     | 4      |                  |                  |                                         | Finance,Mathematics,Technology  |
-| plus.at          | sold      | 116            | 92     | 4      |                  |                  | eww ag ( https://nic.at/registrar/592 ) | Finance,Mathematics,Technology  |
-| flush.io         | resell    | 114            | 12     | 5      | 01/11/2024 14:15 | 01/11/2025 14:15 | Sav.com, LLC                            | Business,Finance,Media          |
-| flush.market     | available | 114            | 12     | 5      |                  |                  |                                         | Business,Finance,Media          |
-| flush.build      | available | 114            | 12     | 5      |                  |                  |                                         | Business,Finance,Media          |
-| flush.melbourne  | available | 114            | 12     | 5      |                  |                  |                                         | Business,Finance,Media          |
-| flush.surgery    | available | 114            | 12     | 5      |                  |                  |                                         | Business,Finance,Media          |
-| flush.games      | available | 114            | 12     | 5      |                  |                  |                                         | Business,Finance,Media          |
-| flush.me         | premium   | 114            | 12     | 5      | 14/08/2024 15:15 | 14/08/2026 15:15 | Edomains LLC                            | Business,Finance,Media          |
-| flush.flowers    | available | 114            | 12     | 5      |                  |                  |                                         | Business,Finance,Media          |
-| flush.kitchen    | available | 114            | 12     | 5      |                  |                  |                                         | Business,Finance,Media          |
-| flush.dance      | available | 114            | 12     | 5      |                  |                  |                                         | Business,Finance,Media          |
-| flush.immobilien | available | 114            | 12     | 5      |                  |                  |                                         | Business,Finance,Media          |
-| flush.dating     | available | 114            | 12     | 5      |                  |                  |                                         | Business,Finance,Media          |
+| domain           | status    | attractiveness | demand | length | created          | expires          | registrar                                                          | sectors                            |
+| ---------------- | --------- | -------------- | ------ | ------ | ---------------- | ---------------- | ------------------------------------------------------------------ | ---------------------------------- |
+| damn.finance     | available | 140            | 20     | 4      |                  |                  |                                                                    | Entertainment,Sports               |
+| away.finance     | available | 126            | 23     | 4      |                  |                  |                                                                    | Business,Media,Travel              |
+| brief.finance    | expired   | 124            | 20     | 5      | 25/06/2024 13:05 | 25/06/2025 13:05 | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság | Business,Education,General,Law     |
+| tough.finance    | available | 122            | 13     | 5      |                  |                  |                                                                    | Health and Fitness,Sports          |
+| heavy.finance    | available | 122            | 22     | 5      |                  |                  |                                                                    | Business,Media,Technology          |
+| second.finance   | resell    | 120            | 23     | 6      | 16/04/2025 15:15 | 16/04/2026 15:15 | Sav.com, LLC - 4                                                   | General,Mathematics                |
+| wizard.finance   | expiring  | 118            | 41     | 6      | 12/09/2014 07:15 | 12/09/2025 07:15 | GoDaddy.com, LLC                                                   | Entertainment,Media,Technology     |
+| fond.finance     | available | 116            | 11     | 4      |                  |                  |                                                                    | General,Hospitality,Retail         |
+| tenth.finance    | available | 116            | 7      | 5      |                  |                  |                                                                    | Mathematics                        |
+| whatever.finance | available | 116            | 25     | 8      |                  |                  |                                                                    | Business,Entertainment,Media       |
+| flat.finance     | resell    | 116            | 23     | 4      | 23/04/2024 02:21 | 23/04/2026 02:21 | Porkbun LLC                                                        | Construction,Real Estate           |
+| equal.finance    | resell    | 116            | 18     | 5      | 27/02/2024 17:00 | 27/02/2026 17:00 | Dynadot Inc                                                        | Education,General,Law              |
+| flush.finance    | expiring  | 114            | 12     | 5      | 13/09/2020 23:49 | 13/09/2025 23:49 | NameCheap, Inc.                                                    | Business,Finance,Media             |
+| above.finance    | resell    | 112            | 22     | 5      | 11/03/2025 18:46 | 11/03/2026 18:46 | Dynadot Inc                                                        | Business                           |
+| support.finance  | resell    | 112            | 38     | 7      | 03/04/2024 15:15 | 03/04/2026 15:15 | Sav.com, LLC - 34                                                  | Business,Politics                  |
+| average.finance  | resell    | 112            | 12     | 7      | 30/06/2025 17:00 | 30/06/2026 17:00 | Dynadot Inc                                                        | Mathematics                        |
+| zero.finance     | resell    | 112            | 49     | 4      | 09/05/2025 15:15 | 09/05/2026 15:15 | Sav.com, LLC - 4                                                   | Mathematics                        |
+| acute.finance    | resell    | 112            | 9      | 5      | 28/01/2025 17:00 | 28/01/2026 17:00 | Dynadot Inc                                                        | Mathematics,Medicine,Science       |
+| audible.finance  | available | 112            | 29     | 7      |                  |                  |                                                                    | Entertainment,Technology           |
+| bloody.finance   | available | 110            | 11     | 6      |                  |                  |                                                                    | Entertainment,Law,Media            |
+| only.finance     | resell    | 110            | 38     | 4      | 12/11/2024 17:13 | 12/11/2025 17:13 | Dynadot Inc                                                        | Business,Media,Retail              |
+| abstract.finance | sold      | 108            | 28     | 8      | 10/09/2020 12:32 | 10/09/2026 12:32 | Name.com, Inc.                                                     | Arts,Humanities,Science            |
+| live.finance     | resell    | 108            | 37     | 4      | 28/01/2018 23:25 | 28/01/2034 23:25 | Automattic Inc.                                                    | Entertainment,Sports               |
+| trick.finance    | available | 106            | 14     | 5      |                  |                  |                                                                    | Entertainment                      |
+| alright.finance  | available | 106            | 10     | 7      |                  |                  |                                                                    | Business,Retail                    |
+| prank.finance    | available | 106            | 11     | 5      |                  |                  |                                                                    | Entertainment                      |
+| open.finance     | expiring  | 106            | 50     | 4      | 02/09/2015 16:00 | 02/09/2025 16:00 | Go China Domains, LLC                                              | Religion                           |
+| abiding.finance  | available | 106            | 5      | 7      |                  |                  |                                                                    | General,Religion                   |
+| teen.finance     | resell    | 104            | 16     | 4      | 22/02/2025 17:01 | 22/02/2026 17:01 | Dynadot Inc                                                        | Education,Entertainment,Healthcare |
+| sore.finance     | available | 104            | 5      | 4      |                  |                  |                                                                    | Healthcare                         |
 
-# All One word domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Finance&utm_content=description.bottom)
+# All One word domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=finance&utm_content=description.bottom)
 
 Search, filter and download the full database of one word domains.
 
-[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/finance-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Finance&utm_content=description.image)
+[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/finance-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=finance&utm_content=description.image)
 
 Every day, we curate the finest quality brandable domains that are not been buyed yet.
 
