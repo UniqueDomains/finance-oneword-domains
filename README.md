@@ -1,62 +1,62 @@
 
-# List of Finance One Word Domain Names (30,685)
+# List of .FINANCE One Word Domain Names (5,939)
 
-[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/Finance-oneword-domains.svg?style=flat)]() [![30,685 Finance one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-30%2C685-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
+[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/finance-oneword-domains.svg?style=flat)]() [![5,939 .FINANCE one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-5%2C939-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
 
-We constantly sweep the web to catalog the highest potential Finance one-word domains still available to buy.
+We constantly sweep the web to catalog the highest potential .FINANCE one-word domains still available to buy.
 
-This dataset contains 1,000 Finance one word domains with availability, attractiveness and demand scores.
+This dataset contains 6,878 .FINANCE one word domains with availability, attractiveness and demand scores.
 
-If you want to search & filters the complete database of [Finance one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Finance-oneword-domains&utm_content=description.top) (30,685) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
+If you want to search & filters the complete database of [.FINANCE one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=finance-oneword-domains&utm_content=description.top) (5,939) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
 -----------
 
 <p align="center">
-    <a href="https://github.com/UniqueDomains/Finance-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/Finance-oneword-domains/blob/main/Finance.csv"><b>⬇️ CSV (1K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/Finance-oneword-domains/blob/main/Finance.json"><b>⬇️ JSON (1K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Finance-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (30.69K)</b></a> • 
+    <a href="https://github.com/UniqueDomains/finance-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
+    <a href="https://github.com/UniqueDomains/finance-oneword-domains/blob/main/finance.csv"><b>⬇️ CSV (6.88K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/finance-oneword-domains/blob/main/finance.json"><b>⬇️ JSON (6.88K domains)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=finance-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (5.94K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain             | Status    | Attract. | Demand | Length | Registrar         | Created          | Expires          |
-| ------------------ | --------- | -------- | ------ | ------ | ----------------- | ---------------- | ---------------- |
-| services.school    | expiring  | 72       | 24%    | 8      | GoDaddy.com, LLC  | 04/01/2021 18:31 | 04/01/2026 18:31 |
-| services.science   | premium   | 72       | 24%    | 8      |                   |                  |                  |
-| services.security  | available | 72       | 24%    | 8      |                   |                  |                  |
-| services.sexy      | available | 72       | 24%    | 8      |                   |                  |                  |
-| services.shiksha   | available | 72       | 24%    | 8      |                   |                  |                  |
-| services.shoes     | premium   | 72       | 24%    | 8      |                   |                  |                  |
-| services.shopping  | premium   | 72       | 24%    | 8      |                   |                  |                  |
-| services.show      | resell    | 72       | 24%    | 8      | DNSPod, Inc.      | 10/06/2020 22:08 | 10/06/2026 22:08 |
-| services.singles   | available | 72       | 24%    | 8      |                   |                  |                  |
-| services.site      | premium   | 72       | 24%    | 8      |                   |                  |                  |
-| services.ski       | premium   | 72       | 24%    | 8      |                   |                  |                  |
-| services.skin      | premium   | 72       | 24%    | 8      |                   |                  |                  |
-| services.soccer    | available | 72       | 24%    | 8      |                   |                  |                  |
-| services.software  | premium   | 72       | 24%    | 8      |                   |                  |                  |
-| services.solar     | resell    | 72       | 24%    | 8      | Sav.com, LLC - 15 | 13/08/2025 15:15 | 13/08/2026 15:15 |
-| services.solutions | resell    | 72       | 24%    | 8      | Spaceship, Inc.   | 10/05/2021 08:13 | 10/05/2026 08:13 |
-| services.soy       | premium   | 72       | 24%    | 8      |                   |                  |                  |
-| services.space     | premium   | 72       | 24%    | 8      |                   |                  |                  |
-| services.spot      | premium   | 72       | 24%    | 8      |                   |                  |                  |
-| services.srl       | available | 72       | 24%    | 8      |                   |                  |                  |
-| services.storage   | available | 72       | 24%    | 8      |                   |                  |                  |
-| services.store     | premium   | 72       | 24%    | 8      |                   |                  |                  |
-| services.stream    | premium   | 72       | 24%    | 8      |                   |                  |                  |
-| services.study     | premium   | 72       | 24%    | 8      |                   |                  |                  |
-| services.style     | premium   | 72       | 24%    | 8      |                   |                  |                  |
-| services.sucks     | available | 72       | 24%    | 8      |                   |                  |                  |
-| services.supplies  | premium   | 72       | 24%    | 8      |                   |                  |                  |
-| services.surf      | premium   | 72       | 24%    | 8      |                   |                  |                  |
-| services.surgery   | premium   | 72       | 24%    | 8      |                   |                  |                  |
-| services.sydney    | premium   | 72       | 24%    | 8      |                   |                  |                  |
+| Domain             | Status    | Attract. | Demand | Length | Registrar            | Created          | Expires          |
+| ------------------ | --------- | -------- | ------ | ------ | -------------------- | ---------------- | ---------------- |
+| aaa.finance        | resell    | 70       | 35%    | 3      | Mesh Digital Limited | 13/11/2014 22:48 | 13/11/2026 22:48 |
+| aaron.finance      | available | 88       | 28%    | 5      |                      |                  |                  |
+| abactinal.finance  | available | 50       | 1%     | 9      |                      |                  |                  |
+| abaft.finance      | available | 43       | 2%     | 5      |                      |                  |                  |
+| abandoned.finance  | available | 58       | 7%     | 9      |                      |                  |                  |
+| abashed.finance    | available | 60       | 2%     | 7      |                      |                  |                  |
+| abasic.finance     | available | 54       | 2%     | 6      |                      |                  |                  |
+| abatable.finance   | available | 54       | 1%     | 8      |                      |                  |                  |
+| abatic.finance     | available | 54       | 2%     | 6      |                      |                  |                  |
+| abaxial.finance    | available | 54       | 2%     | 7      |                      |                  |                  |
+| abbatial.finance   | available | 50       | 1%     | 8      |                      |                  |                  |
+| abc.finance        | resell    | 102      | 39%    | 3      | GoDaddy.com, LLC     | 02/09/2015 18:48 | 02/09/2026 18:48 |
+| abdicable.finance  | available | 50       | 1%     | 9      |                      |                  |                  |
+| abdominal.finance  | available | 82       | 5%     | 9      |                      |                  |                  |
+| abdominous.finance | available | 56       | 1%     | 10     |                      |                  |                  |
+| abducens.finance   | available | 54       | 1%     | 8      |                      |                  |                  |
+| abducent.finance   | available | 68       | 1%     | 8      |                      |                  |                  |
+| abducting.finance  | available | 50       | 1%     | 9      |                      |                  |                  |
+| abenaki.finance    | available | 82       | 3%     | 7      |                      |                  |                  |
+| aberdonian.finance | available | 68       | 1%     | 10     |                      |                  |                  |
+| aberrant.finance   | available | 74       | 7%     | 8      |                      |                  |                  |
+| abeyant.finance    | available | 56       | 2%     | 7      |                      |                  |                  |
+| abhorrent.finance  | available | 54       | 3%     | 9      |                      |                  |                  |
+| abiding.finance    | available | 106      | 5%     | 7      |                      |                  |                  |
+| ability.finance    | available | 92       | 16%    | 7      |                      |                  |                  |
+| abject.finance     | available | 94       | 8%     | 6      |                      |                  |                  |
+| abkhas.finance     | available | 68       | 1%     | 6      |                      |                  |                  |
+| abkhasian.finance  | available | 78       | 1%     | 9      |                      |                  |                  |
+| abkhaz.finance     | available | 82       | 2%     | 6      |                      |                  |                  |
+| abkhazian.finance  | available | 78       | 1%     | 9      |                      |                  |                  |
 
 <p align="center">
-    <a href="https://github.com/UniqueDomains/Finance-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/Finance-oneword-domains/blob/main/Finance.csv"><b>⬇️ CSV (1K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/Finance-oneword-domains/blob/main/Finance.json"><b>⬇️ JSON (1K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Finance-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (30.69K)</b></a> • 
+    <a href="https://github.com/UniqueDomains/finance-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
+    <a href="https://github.com/UniqueDomains/finance-oneword-domains/blob/main/finance.csv"><b>⬇️ CSV (6.88K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/finance-oneword-domains/blob/main/finance.json"><b>⬇️ JSON (6.88K domains)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=finance-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (5.94K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
@@ -89,7 +89,7 @@ If you want to search & filters the complete database of [Finance one word domai
 | Name     | Total Number | Extract                                                             | Full Database                                                                                                                              |
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 29,681       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
-| Expiring | 59,909       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| Expiring | 61,144       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
 | All      | 4,569,375    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
@@ -645,11 +645,11 @@ If you want to search & filters the complete database of [Finance one word domai
 | Travel             | 23,630       | [Github](https://github.com/UniqueDomains/Travel-oneword-domains)                 | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Travel-oneword-domains&utm_content=table.link)                 |
 | Utilities          | 17,983       | [Github](https://github.com/UniqueDomains/Utilities-oneword-domains)              | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Utilities-oneword-domains&utm_content=table.link)              |
 
-# All One Word Domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Finance-oneword-domains&utm_content=description.bottom)
+# All One Word Domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=finance-oneword-domains&utm_content=description.bottom)
 
 Access the most complete and advanced database of one word domains.
 
 Spot short, memorable domain names that earn trust, dominate search engines, and appreciate over time.
 
-[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/Finance-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Finance-oneword-domains&utm_content=description.image)
+[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/finance-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=finance-oneword-domains&utm_content=description.image)
         
