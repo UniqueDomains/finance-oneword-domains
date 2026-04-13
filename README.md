@@ -3,7 +3,7 @@
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C177%20rows-8250df">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C178%20rows-8250df">
   <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C176%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
@@ -14,7 +14,7 @@ Daily-updated dataset of available and resale .finance one-word domains from Uni
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 8,177 rows · **Live catalog:** 8,176 domains
+**Public extract:** 8,178 rows · **Live catalog:** 8,176 domains
 
 **Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/finance`  
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .FINANCE one-word doma
 
 ### Files
 
-- `finance.csv` — public CSV extract (8,177 rows)
-- `finance.json` — public JSON extract (8,177 rows)
+- `finance.csv` — public CSV extract (8,178 rows)
+- `finance.json` — public JSON extract (8,178 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -75,14 +75,14 @@ print(df.head())
 | status.finance     | premium   | $82.50    | —             | 76             | 40     | 6      | name.com        |
 | weird.finance      | available | $15.99    | $84.99        | 64             | 29     | 5      | name.com        |
 | stark.finance      | resell    | —         | —             | 82             | 99     | 5      | Porkbun LLC     |
-| daily.finance      | premium   | $1,000    | $1,000        | 74             | 40     | 5      | name.com        |
-| curious.finance    | available | $15.99    | $84.99        | 74             | 28     | 7      | name.com        |
+| daily.finance      | premium   | $1,000    | $1,000        | 74             | 39     | 5      | name.com        |
+| curious.finance    | available | $15.99    | $84.99        | 74             | 27     | 7      | name.com        |
 | brave.finance      | resell    | —         | —             | 76             | 98     | 5      | Dynadot Inc     |
 | about.finance      | premium   | $1,000    | $1,000        | 94             | 37     | 5      | name.com        |
-| sad.finance        | available | $15.99    | $84.99        | 72             | 27     | 3      | name.com        |
+| ugly.finance       | available | $15.99    | $84.99        | 96             | 26     | 4      | name.com        |
 | test.finance       | resell    | —         | —             | 72             | 89     | 4      | Porkbun LLC     |
 | dental.finance     | premium   | $250      | $250          | 90             | 36     | 6      | name.com        |
-| ugly.finance       | available | $15.99    | $84.99        | 96             | 26     | 4      | name.com        |
+| obvious.finance    | available | $15.99    | —             | 76             | 26     | 7      | name.com        |
 | morgan.finance     | resell    | —         | —             | 64             | 82     | 6      | Spaceship, Inc. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,177-row public sample | 8,176 live domains                               |
+| 8,178-row public sample | 8,176 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
