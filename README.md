@@ -1,10 +1,10 @@
-# Available .FINANCE One-Word Domains (11,014)
+# Available .FINANCE One-Word Domains (11,012)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C014%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C012%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .finance one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,014 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,012 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,014 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,012 domains · **Median ask:** $23.30 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-03  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/finance`  
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| jewels.finance       | available | $15.99    | —             | 80             | 15     | 6      | name.com                                                  |
+| ladies.finance       | available | $15.99    | —             | 80             | 17     | 6      | name.com                                                  |
+| geton.finance        | available | $15.99    | —             | 82             | 10     | 6      | name.com                                                  |
+| getup.finance        | available | $15.99    | —             | 82             | 14     | 6      | name.com                                                  |
+| popup.finance        | available | $15.99    | —             | 84             | 29     | 6      | name.com                                                  |
+| useit.finance        | available | $15.99    | —             | 94             | 7      | 6      | name.com                                                  |
+| playon.finance       | available | $15.99    | —             | 80             | 14     | 7      | name.com                                                  |
+| toneup.finance       | available | $15.99    | —             | 80             | 5      | 7      | name.com                                                  |
+| stirup.finance       | available | $15.99    | —             | 82             | 3      | 7      | name.com                                                  |
+| dogsick.finance      | available | $15.99    | —             | 90             | 1      | 7      | name.com                                                  |
+| messages.finance     | available | $15.99    | —             | 80             | 16     | 8      | name.com                                                  |
+| Snickers.finance     | available | $82.98    | —             | 80             | 10     | 8      | namecheap                                                 |
 | whynot.finance       | available | $15.99    | —             | 74             | 39     | 7      | name.com                                                  |
-| buy.finance          | resell    | —         | —             | 84             | 53     | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| buy.finance          | resell    | —         | —             | 84             | 54     | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
 | cars.finance         | premium   | $1,000    | —             | 66             | 47     | 4      | name.com                                                  |
 | neuroscience.finance | available | $15.99    | —             | 80             | 37     | 12     | name.com                                                  |
 | skills.finance       | resell    | —         | —             | 58             | 47     | 6      | Spaceship, Inc.                                           |
 | doctors.finance      | premium   | $123.75   | —             | 56             | 26     | 7      | name.com                                                  |
 | maps.finance         | available | $15.99    | —             | 56             | 31     | 4      | name.com                                                  |
 | its.finance          | resell    | —         | —             | 78             | 43     | 3      | Dynadot Inc                                               |
-| boats.finance        | premium   | $500      | —             | 52             | 24     | 5      | name.com                                                  |
-| popup.finance        | available | $15.99    | —             | 84             | 29     | 6      | name.com                                                  |
-| Tools.finance        | resell    | —         | —             | 56             | 40     | 5      | Sav.com, LLC - 12                                         |
-| apartments.finance   | premium   | $242      | $242          | 60             | 21     | 10     | namesilo                                                  |
-| Keith.finance        | available | $82.98    | —             | 66             | 25     | 5      | namecheap                                                 |
-| menu.finance         | resell    | —         | —             | 70             | 34     | 4      | Dynadot Inc                                               |
-| networks.finance     | premium   | $250      | —             | 60             | 20     | 8      | name.com                                                  |
-| pops.finance         | available | $15.99    | —             | 74             | 24     | 4      | name.com                                                  |
-| tickets.finance      | resell    | —         | —             | 64             | 34     | 7      | Dynadot Inc                                               |
-| mathematics.finance  | premium   | $123.75   | —             | 68             | 19     | 11     | name.com                                                  |
-| Places.finance       | available | $82.98    | —             | 74             | 22     | 6      | namecheap                                                 |
-| Cats.finance         | resell    | —         | —             | 59             | 33     | 4      | Dynadot Inc                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,014 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 11,012 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is made up of one-word .finance domains, which gives each name an immediate finance-facing extension but puts more pressure on the word itself to carry meaning. The range here includes literal words, broad consumer words, and more flexible brandables such as Acup.finance, getup.finance, popup.finance, and useit.finance. With a median ask of 23.3 across 11,012 domains, the first pass is usually clarity: does the word strengthen trust, fit a financial use case, and stay easy to remember when paired with .finance? If several names feel equally usable, compare specificity, pronunciation, and any obvious trademark friction before deciding.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Prioritize words that still sound credible with .finance
+- Check if the word is clear, pronounceable, and memorable
+- Compare ask price against how narrow or broad the term is
+- Watch for trademark risk in common branded-looking words
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FINANCE One-Word Domains*. Version 2026-05-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FINANCE One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
