@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .finance one-word domains f
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,020 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,020 domains · **Median ask:** $23.30 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,020 domains · **Median ask:** $20.65 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/finance`  
+**Last updated:** 2026-06-14
+**Canonical page:** `https://unique.domains/domains/tld/finance`
 **Best for:** founders, investors, studios
 
 ---
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| jewels.finance       | available | $15.99    | —             | 80             | 15     | 6      | name.com                                                  |
-| ladies.finance       | available | $15.99    | —             | 80             | 17     | 6      | name.com                                                  |
-| geton.finance        | available | $15.99    | —             | 82             | 10     | 6      | name.com                                                  |
-| getup.finance        | available | $15.99    | —             | 82             | 15     | 6      | name.com                                                  |
-| popup.finance        | available | $15.99    | —             | 84             | 28     | 6      | name.com                                                  |
-| useit.finance        | available | $15.99    | —             | 94             | 7      | 6      | name.com                                                  |
-| playon.finance       | available | $15.99    | —             | 80             | 14     | 7      | name.com                                                  |
-| toneup.finance       | available | $15.99    | —             | 80             | 5      | 7      | name.com                                                  |
-| stirup.finance       | available | $15.99    | —             | 82             | 3      | 7      | name.com                                                  |
-| dogsick.finance      | available | $15.99    | —             | 90             | 1      | 7      | name.com                                                  |
-| messages.finance     | available | $15.99    | —             | 80             | 16     | 8      | name.com                                                  |
-| Snickers.finance     | available | $82.98    | —             | 80             | 10     | 8      | namecheap                                                 |
-| whynot.finance       | available | $15.99    | —             | 74             | 44     | 7      | name.com                                                  |
-| buy.finance          | resell    | —         | —             | 84             | 54     | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
-| cars.finance         | premium   | $1,000    | —             | 66             | 47     | 4      | name.com                                                  |
-| neuroscience.finance | available | $15.99    | —             | 80             | 37     | 12     | name.com                                                  |
-| skills.finance       | resell    | —         | —             | 58             | 47     | 6      | Spaceship, Inc.                                           |
-| doctors.finance      | premium   | $123.75   | —             | 56             | 26     | 7      | name.com                                                  |
-| maps.finance         | available | $15.99    | —             | 56             | 31     | 4      | name.com                                                  |
-| every.finance        | resell    | —         | —             | 82             | 45     | 5      | GoDaddy.com, LLC                                          |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| eight.finance       | resell    | —         | —             | 102            | 24     | 5      | Sav.com, LLC - 13 |
+| lucy.finance        | available | $15.99    | —             | 84             | 26     | 4      | name.com          |
+| wonder.finance      | resell    | —         | —             | 86             | 43     | 6      | Dynadot Inc       |
+| jail.finance        | available | $15.99    | —             | 80             | 12     | 4      | name.com          |
+| flourishing.finance | available | $15.99    | —             | 88             | 15     | 11     | name.com          |
+| educational.finance | available | $15.99    | —             | 90             | 17     | 11     | name.com          |
+| absent.finance      | available | $15.99    | $84.99        | 102            | 11     | 6      | name.com          |
+| most.finance        | resell    | —         | —             | 118            | 29     | 4      | Dynadot Inc       |
+| aliquot.finance     | premium   | —         | —             | 96             | 3      | 7      | —                 |
+| fuel.finance        | resell    | —         | —             | 96             | 31     | 4      | Sav.com, LLC - 48 |
+| reversible.finance  | available | $15.99    | —             | 81             | 7      | 10     | name.com          |
+| armenian.finance    | premium   | —         | —             | 82             | 11     | 8      | —                 |
+| overlook.finance    | available | $15.99    | —             | 86             | 10     | 8      | name.com          |
+| correlate.finance   | available | $15.99    | $84.99        | 88             | 7      | 9      | name.com          |
+| snack.finance       | available | $15.99    | —             | 100            | 28     | 5      | name.com          |
+| midspring.finance   | available | $15.99    | —             | 98             | 1      | 10     | name.com          |
+| bootleg.finance     | available | $15.99    | —             | 100            | 12     | 7      | name.com          |
+| pretty.finance      | available | $15.99    | —             | 80             | 26     | 6      | name.com          |
+| after.finance       | resell    | —         | —             | 100            | 27     | 5      | Dynadot Inc       |
+| elegant.finance     | resell    | —         | —             | 94             | 24     | 7      | Dynadot Inc       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FINANCE One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FINANCE One-Word Domains*. Version 2026-06-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
