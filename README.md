@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .finance one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 15,669 domains · **Median ask:** $16.87 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/finance`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,7 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| less.finance     | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
 | abo.finance      | available | $11.99    | $84.99        | low            | low    | 3      | name.com         |
 | hug.finance      | resell    | $15.99    | —             | high           | low    | 3      | Dynadot Inc      |
 | ear.finance      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
@@ -83,7 +84,6 @@ print(df.head())
 | SSI.finance      | resell    | —         | —             | medium         | low    | 3      | Dynadot Inc      |
 | tel.finance      | premium   | $854      | $854          | medium         | low    | 3      | namesilo         |
 | TBD.finance      | available | $15.99    | —             | high           | low    | 3      | name.com         |
-| two.finance      | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FINANCE One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FINANCE One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
