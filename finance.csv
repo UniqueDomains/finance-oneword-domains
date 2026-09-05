@@ -48,7 +48,7 @@ d932fdaf-10e7-42d9-ac29-4c0667454111,tentbed.finance,available,15.99,,high,low,8
 0b57a83a-bff8-4cc3-a8d9-0a531d4649f1,screen.finance,resell,,,high,low,6,Dynadot Inc,08/07/2025 09:03,08/07/2026 09:03
 b1a12d63-b26a-4862-a0f1-2d1110e94c9e,thanksabunch.finance,available,15.99,,low,low,14,name.com,,
 7035afdc-26e9-4f26-ab9c-66fa9ef3f58b,aliquot.finance,available,11.99,84.99,low,low,7,name.com,,
-e6dc2c90-ea8e-41c0-a570-e6de77876707,newfound.finance,available,17.48,82.98,low,low,9,namecheap,,
+e6dc2c90-ea8e-41c0-a570-e6de77876707,newfound.finance,available,11.99,84.99,low,low,9,name.com,,
 485123a7-de16-4a8b-99d7-ad57761801b6,fuel.finance,resell,,,high,low,4,"Sav.com, LLC - 48",11/06/2025 15:15,11/06/2026 15:15
 94e10306-14a1-4ad3-bb90-8e70612e2dd3,adverse.finance,available,11.99,84.99,low,low,7,name.com,,
 caef0b01-3c8d-4b14-a4e7-05d5d9d63266,nowhile.finance,available,15.99,,low,low,8,name.com,,
@@ -84,7 +84,7 @@ f6011c54-63a4-4cc4-afbe-8a99ad2b5f67,robotlike.finance,available,11.99,84.99,low
 ac3fcf5c-9709-4b9f-b356-c9f2128734b1,coalesced.finance,available,11.99,84.99,low,low,9,name.com,,
 b95a3495-eacb-475d-9e1b-ba05eb2654ee,intheraw.finance,available,11.99,84.99,low,low,10,name.com,,
 d5b1b07a-bab1-4b7f-bd9d-70f24a31cc8a,unemployment.finance,available,15.99,,low,low,12,name.com,,
-f3bc67ea-83ed-4bbe-9fac-c2ac17d4a539,snack.finance,available,15.99,,high,low,5,name.com,,
+f3bc67ea-83ed-4bbe-9fac-c2ac17d4a539,snack.finance,available,17.48,82.98,medium,low,5,namecheap,,
 6b3a3b35-d828-4604-b3a8-76d50190f611,lxxx.finance,available,11.99,84.99,low,low,4,name.com,,
 88e9d4b8-d16e-43ea-a90f-5df33aa86244,making.finance,available,15.99,,high,low,6,name.com,,
 97dbbd31-b01a-4868-b91c-a17a80bcdd9f,antiblack.finance,available,11.99,84.99,low,low,9,name.com,,
@@ -236,7 +236,7 @@ be891599-85d5-4839-9488-9116e1925830,dragrace.finance,available,15.99,,high,low,
 77dbe493-5d1f-4f63-a25e-031de02f7a06,convincing.finance,available,15.99,84.99,high,low,10,name.com,,
 3d220c15-cf72-46dc-9c1a-5fe353186df6,acuate.finance,available,11.99,84.99,low,low,6,name.com,,
 214bd9b6-c728-4c92-b6bc-88999e17f1dd,whatnow.finance,available,15.99,,low,low,8,name.com,,
-f625ad22-ddd3-4b86-af5c-554539953575,sloping.finance,available,11.99,84.99,low,low,7,name.com,,
+f625ad22-ddd3-4b86-af5c-554539953575,sloping.finance,available,17.48,82.98,low,low,7,namecheap,,
 0d4900a5-1a3e-4236-b890-8d84258e4e6d,oarblade.finance,available,15.99,,medium,low,9,name.com,,
 4f702e20-18b2-47c1-aba1-f662d458cebb,missionaccomplished.finance,available,15.99,,medium,low,20,name.com,,
 e4b69d52-28e4-4576-a615-c9813eaaebe8,bread.finance,resell,,,medium,low,5,Dynadot Inc,08/11/2023 07:42,08/11/2026 07:42
@@ -512,7 +512,7 @@ ea1d7e08-6aac-4e22-8a7e-80dd1880471b,seattle.finance,premium,118.8,118.8,high,lo
 5662e5a2-6994-4e80-8dde-830caa4e7d18,UnitedStates.finance,available,,,low,low,13,,,
 c83495dd-8c16-41bf-ac6e-6a51c04575d1,affinity.finance,available,,,high,low,8,,,
 69d27be0-b76e-4b28-b84e-f19785374d6d,modelt.finance,available,15.99,,high,low,7,name.com,,
-33c5b037-53b6-470a-ab18-edee439da084,friendly.finance,resell,,,high,low,8,"Global Domains International, Inc. DBA DomainCostClub.com",30/03/2025 15:15,30/03/2027 15:15
+33c5b037-53b6-470a-ab18-edee439da084,friendly.finance,resell,,,medium,low,8,UM DOMAINS PTE. LTD,24/06/2026 15:15,24/06/2027 15:15
 e1e55dba-b5b7-4e85-bd1f-c7af856e8390,testing.finance,available,15.99,,high,low,7,name.com,,
 ea0dc848-d3e4-422e-9c93-7af12e108963,allophonic.finance,available,11.99,84.99,low,low,10,name.com,,
 c11b19c8-800e-4f12-a9f9-4c179e672663,muhfuggah.finance,available,15.99,,medium,low,9,name.com,,
@@ -595,12 +595,12 @@ d2729504-2ff5-4940-93b0-031be79dc79d,jazz.finance,resell,,,high,low,4,"Sav.com, 
 309d236c-6bb8-4191-9e1f-9f19163424b2,antecedent.finance,available,11.99,84.99,low,low,10,name.com,,
 f97e5780-1007-4c64-8c4a-b8af9d4b59fb,lightningstrike.finance,available,15.99,,medium,low,16,name.com,,
 4417858b-c855-4192-b628-c2826d4977e6,citylights.finance,available,15.99,,medium,low,11,name.com,,
-367ff73f-853b-4245-a94e-c91405658173,support.finance,resell,,,high,medium,7,"Spaceship, Inc.",03/04/2024 15:15,03/04/2027 15:15
+367ff73f-853b-4245-a94e-c91405658173,support.finance,resell,,,medium,medium,7,"Spaceship, Inc.",03/04/2024 15:15,03/04/2027 15:15
 abadf8e2-c861-4bb0-ad85-f21cd4dbcf50,hackneyed.finance,available,11.99,84.99,low,low,9,name.com,,
 048ecc79-bafc-4721-a326-9f1d0a4c5bb9,directly.finance,available,15.99,84.99,high,low,8,name.com,,
 7cac4ed5-6ded-4ca4-ae88-b3c1f8bbedf7,retiring.finance,available,15.99,,high,low,8,name.com,,
 0d1709da-c67d-4a5a-91ad-cfde19412a11,waken.finance,available,11.99,84.99,medium,low,5,name.com,,
-726fa218-c8c2-4ad9-91d5-fd9108faf263,electronic.finance,resell,,,medium,low,10,"NameSilo, LLC",31/08/2024 10:20,31/08/2026 10:20
+726fa218-c8c2-4ad9-91d5-fd9108faf263,electronic.finance,resell,,,medium,low,10,"NameSilo, LLC",31/08/2024 10:20,31/08/2027 10:20
 09472f83-e8b6-4697-9bef-b8a24d1d18b3,thehardway.finance,available,15.99,,low,low,12,name.com,,
 f0e2b5d8-649c-4512-a0a9-1422b8fadeb9,asteroid.finance,resell,15.99,,medium,low,8,Porkbun LLC,21/03/2026 12:38,21/03/2027 12:38
 73fb4506-8866-4e6d-8d72-07baa068f525,hotticket.finance,available,15.99,,high,low,10,name.com,,
@@ -992,7 +992,7 @@ c6a082f1-7365-4c37-bac0-868b0c355665,pissabout.finance,available,15.99,,low,low,
 424160eb-29b0-434d-94fe-4ccdea2407a3,deskchair.finance,available,15.99,,high,low,10,name.com,,
 3e24aee0-d945-4b26-9580-3ec258eeca5d,bravery.finance,available,15.99,,high,low,7,name.com,,
 58810971-e5dd-45ee-a8f8-6fbb902a6c14,lifelesson.finance,available,15.99,,high,low,11,name.com,,
-f0666fb8-23d5-46fd-834e-a06d36c45b79,jasmine.finance,available,15.99,,medium,low,7,name.com,,
+f0666fb8-23d5-46fd-834e-a06d36c45b79,jasmine.finance,available,11.99,84.99,medium,low,7,name.com,,
 a99786c1-1437-47d6-98c5-84e347a813f2,proactive.finance,resell,,,high,low,9,"Sav.com, LLC - 4",03/10/2025 15:15,03/10/2026 15:15
 de257a4f-d4f4-4fd1-aec8-70f25180302c,weird.finance,available,15.99,84.99,medium,low,5,name.com,,
 7db2e2ef-8dc7-4bf8-b09c-577d313ae46f,alienated.finance,available,11.99,84.99,low,low,9,name.com,,
