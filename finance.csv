@@ -48,7 +48,7 @@ d932fdaf-10e7-42d9-ac29-4c0667454111,tentbed.finance,available,15.99,,high,low,8
 0b57a83a-bff8-4cc3-a8d9-0a531d4649f1,screen.finance,resell,,,high,low,6,Dynadot Inc,08/07/2025 09:03,08/07/2026 09:03
 b1a12d63-b26a-4862-a0f1-2d1110e94c9e,thanksabunch.finance,available,15.99,,low,low,14,name.com,,
 7035afdc-26e9-4f26-ab9c-66fa9ef3f58b,aliquot.finance,available,11.99,84.99,low,low,7,name.com,,
-e6dc2c90-ea8e-41c0-a570-e6de77876707,newfound.finance,available,11.99,84.99,low,low,9,name.com,,
+e6dc2c90-ea8e-41c0-a570-e6de77876707,newfound.finance,available,17.48,82.98,low,low,9,namecheap,,
 485123a7-de16-4a8b-99d7-ad57761801b6,fuel.finance,resell,,,high,low,4,"Sav.com, LLC - 48",11/06/2025 15:15,11/06/2026 15:15
 94e10306-14a1-4ad3-bb90-8e70612e2dd3,adverse.finance,available,11.99,84.99,low,low,7,name.com,,
 caef0b01-3c8d-4b14-a4e7-05d5d9d63266,nowhile.finance,available,15.99,,low,low,8,name.com,,
@@ -423,7 +423,7 @@ a2b5518c-0c3a-439c-ac34-cb4fc4275567,TimesSquare.finance,available,15.99,,low,lo
 33eb5158-8bfb-41de-9b79-2efe5ceac535,voiceless.finance,available,11.99,84.99,low,low,9,name.com,,
 d752abb9-10ef-4750-80dd-d7a4ba41b43d,angolan.finance,available,11.99,84.99,low,low,7,name.com,,
 06b9e8db-7bd8-4548-9e26-0a9a89ab3d29,sunrise.finance,resell,,,high,low,7,Porkbun LLC,16/07/2023 15:15,16/07/2026 15:15
-f1b5518c-b627-458c-9c99-ffccdd07769c,desk.finance,premium,78.54,78.54,high,low,4,namesilo,,
+f1b5518c-b627-458c-9c99-ffccdd07769c,desk.finance,premium,78.54,78.54,medium,low,4,namesilo,,
 85e3dc92-a60a-4008-b45c-4c3483266ebc,allergist.finance,available,15.99,,medium,low,9,name.com,,
 1c5d41ff-9046-4059-8148-d060373cd315,sidelong.finance,available,11.99,84.99,low,low,8,name.com,,
 578a42ec-3547-426e-baca-0bf79666ab55,floor.finance,resell,,,medium,low,5,Dynadot Inc,13/06/2026 17:00,13/06/2027 17:00
@@ -445,12 +445,12 @@ befde8f0-6a3d-4def-bb4f-960901029f2d,rubbingoil.finance,available,15.99,,low,low
 8cdf8ac0-7ac0-443d-a4fa-9fc2f596e38d,fond.finance,available,15.99,84.99,high,low,4,name.com,,
 d025ac8f-a175-4575-85fb-3f81048e81e1,conveyable.finance,available,11.99,84.99,low,low,10,name.com,,
 77dee64a-6591-479f-8bc9-8753d73218c6,givesomeoneabreak.finance,available,15.99,,high,low,20,name.com,,
-bdba52eb-1230-47f3-accd-aabd9829df4b,nutritive.finance,available,11.99,84.99,low,low,9,name.com,,
+bdba52eb-1230-47f3-accd-aabd9829df4b,nutritive.finance,available,17.48,82.98,medium,low,9,namecheap,,
 1a62ad8c-9ad3-435a-a435-b102f1905283,because.finance,available,15.99,,high,low,7,name.com,,
 ca172d87-8aea-47e8-bd85-66043b59d585,seeming.finance,available,15.99,,high,low,7,name.com,,
 b2000920-f2cb-4688-aeb6-7a1cee8b9613,sum.finance,premium,82.5,82.5,medium,low,3,name.com,,
 decf8aea-de17-4772-a668-0d51d9ac5fc3,situated.finance,available,15.99,,medium,low,8,name.com,,
-d04a2cd8-953b-4735-a8a9-0c7a034ef025,control.finance,resell,,,high,low,7,"Spaceship, Inc.",13/04/2024 15:15,13/04/2027 15:15
+d04a2cd8-953b-4735-a8a9-0c7a034ef025,control.finance,resell,,,medium,low,7,"Spaceship, Inc.",13/04/2024 15:15,13/04/2027 15:15
 1203a275-c75e-42d7-b087-85a1287badb3,berserk.finance,available,11.99,84.99,low,low,7,name.com,,
 63771961-d13b-45d1-b0ab-218d4a05b04a,speech.finance,available,15.99,,high,low,6,name.com,,
 df397461-3675-4317-b62a-a53248ed73aa,glasses.finance,available,15.99,,high,low,7,name.com,,
@@ -992,7 +992,7 @@ c6a082f1-7365-4c37-bac0-868b0c355665,pissabout.finance,available,15.99,,low,low,
 424160eb-29b0-434d-94fe-4ccdea2407a3,deskchair.finance,available,15.99,,high,low,10,name.com,,
 3e24aee0-d945-4b26-9580-3ec258eeca5d,bravery.finance,available,15.99,,high,low,7,name.com,,
 58810971-e5dd-45ee-a8f8-6fbb902a6c14,lifelesson.finance,available,15.99,,high,low,11,name.com,,
-f0666fb8-23d5-46fd-834e-a06d36c45b79,jasmine.finance,available,11.99,84.99,medium,low,7,name.com,,
+f0666fb8-23d5-46fd-834e-a06d36c45b79,jasmine.finance,available,17.48,82.98,medium,low,7,namecheap,,
 a99786c1-1437-47d6-98c5-84e347a813f2,proactive.finance,resell,,,high,low,9,"Sav.com, LLC - 4",03/10/2025 15:15,03/10/2026 15:15
 de257a4f-d4f4-4fd1-aec8-70f25180302c,weird.finance,available,15.99,84.99,medium,low,5,name.com,,
 7db2e2ef-8dc7-4bf8-b09c-577d313ae46f,alienated.finance,available,11.99,84.99,low,low,9,name.com,,
