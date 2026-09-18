@@ -71,19 +71,19 @@ print(df.head())
 | asteroid.finance | resell    | $15.99    | —             | medium         | low    | 8      | Porkbun LLC      |
 | flu.finance      | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo         |
 | die.finance      | available | $15.99    | —             | medium         | low    | 3      | name.com         |
-| apt.finance      | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC     |
+| DIY.finance      | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 4 |
 | gym.finance      | premium   | $123.75   | —             | high           | low    | 3      | name.com         |
 | had.finance      | available | $15.99    | —             | high           | low    | 3      | name.com         |
-| DIY.finance      | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 4 |
+| joy.finance      | resell    | —         | —             | high           | medium | 3      | Porkbun LLC      |
 | owe.finance      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
 | let.finance      | available | $15.99    | —             | high           | low    | 3      | name.com         |
-| joy.finance      | resell    | —         | —             | high           | medium | 3      | Porkbun LLC      |
+| SSI.finance      | resell    | —         | —             | medium         | low    | 3      | Dynadot Inc      |
 | sum.finance      | premium   | $82.50    | $82.50        | medium         | low    | 3      | name.com         |
 | saw.finance      | available | $15.99    | —             | high           | low    | 3      | name.com         |
-| SSI.finance      | resell    | —         | —             | medium         | low    | 3      | Dynadot Inc      |
+| two.finance      | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC     |
 | tel.finance      | premium   | $854      | $854          | medium         | low    | 3      | namesilo         |
 | TBD.finance      | available | $15.99    | —             | high           | low    | 3      | name.com         |
-| two.finance      | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC     |
+| baby.finance     | resell    | —         | —             | high           | low    | 4      | Dynadot Inc      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
