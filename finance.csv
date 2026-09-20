@@ -2,14 +2,14 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 62dd46f1-1103-41eb-9c84-90c9d5a96770,amphibious.finance,available,11.99,84.99,low,low,10,name.com,,,
 9754bbd5-4972-44ce-a634-55c96d55beb3,combative.finance,available,11.99,84.99,low,low,9,name.com,,,
 ecd98da7-797c-46b5-8fb7-884f7c6b1350,abducent.finance,available,11.99,84.99,low,low,8,name.com,,,
-6e9339f0-02ad-4617-9580-3261ac61ad87,aided.finance,available,15.99,84.99,high,low,5,name.com,,,
+6e9339f0-02ad-4617-9580-3261ac61ad87,aided.finance,available,20.99,64.99,low,low,5,namesilo,,,19/09/2026 12:43
 ee8931c4-cb2c-4e42-bf45-a760610071d1,breastbone.finance,available,15.99,,medium,low,11,name.com,,,
 4915e494-fbc5-43d1-b4a8-6d79d2403202,condo.finance,available,15.99,,high,low,5,name.com,,,
 edbb84bf-a20a-418f-864b-b9dd35017239,takeawife.finance,available,15.99,,low,low,11,name.com,,,
 dc3ba759-43e3-45e2-984a-ac3d2c3c9740,rodshaped.finance,available,11.99,84.99,low,low,10,name.com,,,08/08/2026 05:07
 a6e48386-3288-4709-aa68-a87307eedc26,surrounding.finance,available,15.99,,high,low,11,name.com,,,
 2e2fbe0a-eecf-40d0-9932-985477c4e64f,eight.finance,resell,,,high,low,5,"Sav.com, LLC - 13",14/02/2026 15:15,14/02/2027 15:15,
-7a8dfe61-855a-43b5-ad06-aa0a9aed7061,Germanshepherd.finance,available,15.99,,high,low,15,name.com,,,
+7a8dfe61-855a-43b5-ad06-aa0a9aed7061,germanshepherd.finance,available,15.99,,high,low,15,name.com,,,
 d376267d-75a2-4087-930e-688e42f72962,beatout.finance,available,11.99,84.99,low,low,8,name.com,,,09/08/2026 05:17
 9e345934-9347-4774-b06d-4b71dc357160,acicular.finance,available,11.99,84.99,low,low,8,name.com,,,
 e08f9c16-e1f9-4853-ae12-827eae1646e6,ascetic.finance,available,11.99,84.99,low,low,7,name.com,,,07/08/2026 00:56
@@ -28,7 +28,7 @@ c796b11a-8ad8-459d-aaf2-46a7972a2b1f,comeclose.finance,available,11.99,84.99,low
 6c6b86dc-53fc-4540-a0c7-694fd15c772d,flourishing.finance,available,15.99,,high,low,11,name.com,,,
 b97b71a7-a7a7-4073-8a5a-265e2fc97929,airheaded.finance,available,11.99,84.99,low,low,9,name.com,,,
 e124d6e0-8d6d-4386-b535-c7fd9f638170,chairperson.finance,available,15.99,,medium,low,11,name.com,,,
-5a933492-ded5-4808-9c3b-6e52de22997b,PubMed.finance,available,15.99,,high,low,6,name.com,,,
+5a933492-ded5-4808-9c3b-6e52de22997b,pubmed.finance,available,15.99,,high,low,6,name.com,,,
 55d4da9e-a064-412c-a76a-62f93ca3e978,stewart.finance,available,15.99,,medium,low,7,name.com,,,
 5a8acf05-8b50-4776-982f-475420746751,educational.finance,available,15.99,,high,low,11,name.com,,,
 be97f17c-5d52-4c6e-bb44-422920141c45,yearround.finance,available,15.99,,high,low,10,name.com,,,
@@ -60,7 +60,7 @@ a7eb8bb4-64f5-4015-9dd6-7a43da8b7d29,reversible.finance,available,15.99,,high,lo
 1b40f6c3-2a47-4f3c-b861-0b27661f7364,pattycase.finance,available,15.99,,medium,low,10,name.com,,,
 c78fffa9-7902-410a-a28a-02d30cb37d8c,acidreflux.finance,available,15.99,,medium,low,11,name.com,,,
 fbda52ed-cf4f-4bba-8e81-4ce9fd850df0,anomic.finance,available,11.99,84.99,low,low,6,name.com,,,
-c6a4466d-12f9-4aed-8b31-5425c5833842,StVincent.finance,available,15.99,,medium,low,11,name.com,,,
+c6a4466d-12f9-4aed-8b31-5425c5833842,stvincent.finance,available,15.99,,medium,low,11,name.com,,,
 3091a332-69ce-4afd-8652-1d5f79bbb38e,allopathic.finance,available,11.99,84.99,low,low,10,name.com,,,
 632fa852-266e-4e3f-a665-abd0c697cd22,speedlimit.finance,available,15.99,,medium,low,11,name.com,,,
 4bcf0f7c-607f-4f1a-97e6-cf995ed44324,armenian.finance,available,11.99,84.99,low,low,8,name.com,,,06/08/2026 19:39
@@ -69,13 +69,13 @@ b3843daf-0066-4c89-8577-59437aee666c,overlook.finance,available,15.99,,high,low,
 5607f335-c606-4c12-bba5-e5c03aaf8195,superuser.finance,available,15.99,,high,low,9,name.com,,,
 3cc79eb3-581c-4043-a4ca-919088954319,barefaced.finance,available,11.99,84.99,low,low,9,name.com,,,08/08/2026 09:20
 8cea6477-2aa5-443f-9700-c4e33da70e33,tooneself.finance,available,15.99,,medium,low,10,name.com,,,
-801a83ca-db3d-49de-b29c-ab4184d9d3fc,Panasonic.finance,available,,,high,low,9,,,,
+801a83ca-db3d-49de-b29c-ab4184d9d3fc,panasonic.finance,available,,,high,low,9,,,,
 27486090-3853-4ff6-b241-ee06947d9dff,onemillion.finance,available,15.99,,low,low,11,name.com,,,
 40794c12-25a9-441f-b72d-3b0d559524ce,trivial.finance,available,15.99,,high,low,7,name.com,,,
 0a8484a1-240f-43dd-8555-bd9ea9bdd7a5,themself.finance,available,15.99,,low,low,8,name.com,,,
 a431c8ff-772b-40f1-9935-48fec8da0e2a,correlate.finance,available,15.99,84.99,high,low,9,name.com,,,
 181c9a1c-c8a6-4e94-b7ef-8ac36d6f63c3,anginose.finance,available,11.99,84.99,low,low,8,name.com,,,
-6bdf50ae-9345-4e01-9ea6-cfa432a1057c,YubaCity.finance,available,15.99,,low,low,9,name.com,,,
+6bdf50ae-9345-4e01-9ea6-cfa432a1057c,yubacity.finance,available,15.99,,low,low,9,name.com,,,
 f6011c54-63a4-4cc4-afbe-8a99ad2b5f67,robotlike.finance,available,11.99,84.99,low,low,9,name.com,,,07/08/2026 20:47
 2ec3970c-e5da-41c2-9c48-42ad86b48b37,standto.finance,available,15.99,,low,low,8,name.com,,,
 4b3a1ae7-6d36-4c42-a1b0-b94972b1d144,knockover.finance,available,15.99,,medium,low,10,name.com,,,
@@ -83,7 +83,7 @@ f6011c54-63a4-4cc4-afbe-8a99ad2b5f67,robotlike.finance,available,11.99,84.99,low
 ac3fcf5c-9709-4b9f-b356-c9f2128734b1,coalesced.finance,available,11.99,84.99,low,low,9,name.com,,,
 b95a3495-eacb-475d-9e1b-ba05eb2654ee,intheraw.finance,available,20.99,64.99,low,low,10,namesilo,,,16/09/2026 08:01
 d5b1b07a-bab1-4b7f-bd9d-70f24a31cc8a,unemployment.finance,available,15.99,,low,low,12,name.com,,,
-f3bc67ea-83ed-4bbe-9fac-c2ac17d4a539,snack.finance,available,17.48,82.98,medium,low,5,namecheap,,,08/09/2026 13:13
+f3bc67ea-83ed-4bbe-9fac-c2ac17d4a539,snack.finance,available,20.99,64.99,medium,low,5,namesilo,,,19/09/2026 10:58
 6b3a3b35-d828-4604-b3a8-76d50190f611,lxxx.finance,available,11.99,84.99,low,low,4,name.com,,,
 88e9d4b8-d16e-43ea-a90f-5df33aa86244,making.finance,available,15.99,,high,low,6,name.com,,,
 97dbbd31-b01a-4868-b91c-a17a80bcdd9f,antiblack.finance,available,11.99,84.99,low,low,9,name.com,,,
@@ -101,7 +101,7 @@ d8f8bd66-b600-496e-8c03-5da02998bce2,sneezing.finance,available,15.99,,medium,lo
 d0b3ed53-ec1b-4bee-9fbf-fe3476e6e64c,potterabout.finance,available,15.99,,low,low,12,name.com,,,
 ad772265-dd4f-42af-afb7-16c811c3e3ef,lxiv.finance,available,11.99,84.99,low,low,4,name.com,,,
 ab0d1348-5434-43b2-9072-d353793cec3c,happy.finance,resell,,,high,medium,5,"Spaceship, Inc.",14/09/2022 13:15,14/09/2026 13:15,
-be29bbb2-006c-45c2-9daf-1dbc2dbb9ba2,Jewnose.finance,available,15.99,,medium,low,8,name.com,,,
+be29bbb2-006c-45c2-9daf-1dbc2dbb9ba2,jewnose.finance,available,15.99,,medium,low,8,name.com,,,
 775a059b-a869-4c05-8fee-51b2b00ce4b2,after.finance,resell,,,high,low,5,Dynadot Inc,13/02/2026 17:00,13/02/2027 17:00,
 742e9678-3bd7-4188-ab8b-edd2e884d037,analgetic.finance,available,11.99,84.99,low,low,9,name.com,,,
 b6afc879-44fa-449e-a6d5-e707c4883cd1,cannot.finance,available,15.99,,high,low,6,name.com,,,
@@ -114,7 +114,7 @@ bc424d4e-899a-4a35-a4e4-faef53812260,allelic.finance,available,11.99,84.99,low,l
 522cf155-b5b6-4a7c-a327-b9c73f365900,tall.finance,available,15.99,,high,low,4,name.com,,,
 b1d3d9c7-d025-4a1b-8415-c9074dd400e3,alchemic.finance,available,11.99,84.99,low,low,8,name.com,,,
 86081a3e-fa3b-4005-a9f6-5bcdf5732495,allover.finance,available,11.99,84.99,low,low,8,name.com,,,
-0527a1df-fabc-47e8-93ba-e8812ac02699,pastrychef.finance,available,17.48,82.98,medium,low,11,namecheap,,,14/09/2026 04:03
+0527a1df-fabc-47e8-93ba-e8812ac02699,pastrychef.finance,available,20.99,64.99,medium,low,11,namesilo,,,19/09/2026 03:45
 3482d530-58eb-4180-b2e4-a39fefc0a02f,travelagency.finance,available,15.99,,high,low,13,name.com,,,
 ac9f1012-e9b6-435d-8834-8948e3a537d4,willingness.finance,available,15.99,,medium,low,11,name.com,,,
 f73c5135-eb0f-472e-9c36-be8dc86869ae,exception.finance,available,15.99,,high,low,9,name.com,,,
@@ -133,24 +133,24 @@ b977d8c4-d5ce-40b6-b0a6-1e4d81e65b1b,forced.finance,available,15.99,84.99,medium
 bec9e8ec-29e2-4f0a-b616-2a4413d71487,advert.finance,available,15.99,,high,low,6,name.com,,,
 6c0cec83-cae8-4be0-89dd-d86f468b0de4,adam.finance,available,,,medium,low,4,,,,
 8a893bd6-e32c-4464-8a04-1c3db8a63842,selfless.finance,available,15.99,84.99,high,low,8,name.com,,,
-2966686c-02ba-4d15-afbe-f1b96a26220e,StrongCity.finance,available,15.99,,low,low,11,name.com,,,
+2966686c-02ba-4d15-afbe-f1b96a26220e,strongcity.finance,available,15.99,,low,low,11,name.com,,,
 83b4e0b2-a72e-4f74-acff-ecc2234b4567,autotypic.finance,available,11.99,84.99,low,low,9,name.com,,,07/08/2026 21:18
-2a5c6b28-b43c-4a9f-9c58-f01ee3794fd1,Irestmycase.finance,available,15.99,,medium,low,14,name.com,,,
+2a5c6b28-b43c-4a9f-9c58-f01ee3794fd1,irestmycase.finance,available,15.99,,medium,low,14,name.com,,,
 f89c2186-2eed-4d1a-a77d-0081fbf08089,knowledgeable.finance,available,15.99,,high,low,13,name.com,,,
 cf22487d-ca01-43b3-8148-138f397acc32,bowout.finance,available,15.99,,high,low,7,name.com,,,
-49090620-8cf1-4a82-9301-8c7e4f16abb0,ISBN.finance,available,15.99,,high,low,4,name.com,,,
-941ba410-6d27-4b10-832c-e6a8185f32ee,noone.finance,available,15.99,,high,low,6,name.com,,,
+49090620-8cf1-4a82-9301-8c7e4f16abb0,isbn.finance,available,15.99,,high,low,4,name.com,,,
+941ba410-6d27-4b10-832c-e6a8185f32ee,noone.finance,available,20.99,64.99,low,low,6,namesilo,,,20/09/2026 00:54
 24ac05d4-b227-41b8-a085-1676e69bee39,molecules.finance,available,15.99,,medium,low,9,name.com,,,
 c5a4210d-d158-4496-82a4-ae69ec57ca11,scarred.finance,available,15.99,,medium,low,7,name.com,,,
 85b95de7-3168-410c-9e35-4621f0cb0e92,cincinnati.finance,available,15.99,,high,low,10,name.com,,,
-c21c379c-565b-41f8-ab85-22118ead1661,UnionCity.finance,available,15.99,,low,low,10,name.com,,,
+c21c379c-565b-41f8-ab85-22118ead1661,unioncity.finance,available,15.99,,low,low,10,name.com,,,
 a100057e-adc7-4116-9a77-80e5ddc9501b,collision.finance,available,15.99,,medium,low,9,name.com,,,
 6ca93119-1d2c-473b-8283-b5a3095debb2,achaian.finance,available,11.99,84.99,low,low,7,name.com,,,
 3e5cb23f-a69c-441d-9e02-3309860dc269,west.finance,resell,,,medium,low,4,Dynadot Inc,23/08/2023 17:00,23/08/2026 17:00,
 0391b5ff-ee9c-44dd-b3bc-653bf6ef946a,breakeven.finance,available,15.99,,high,low,10,name.com,,,
 9d7d2cee-8465-4c9d-b713-595489e2154a,whitepepper.finance,available,15.99,,low,low,12,name.com,,,
 a78c08e9-bbce-4f81-9ce3-6a942e8ad45a,algometric.finance,available,11.99,84.99,low,low,10,name.com,,,
-808cd132-5e02-43f6-833f-2aa8421a70b5,marketing.finance,resell,,,high,medium,9,UM DOMAINS PTE. LTD,06/04/2026 15:15,06/04/2027 15:15,
+808cd132-5e02-43f6-833f-2aa8421a70b5,marketing.finance,resell,,,medium,low,9,UM DOMAINS PTE. LTD,06/04/2026 15:15,06/04/2027 15:15,19/09/2026 13:53
 c1f93ac2-71ef-4a25-be93-366b353a82ea,modelling.finance,available,15.99,,high,low,9,name.com,,,
 8acd2342-f727-45d5-95bf-93b7785c3557,agamous.finance,available,11.99,84.99,low,low,7,name.com,,,
 9b855ead-17ef-4433-ba31-cf0cd947e990,angelic.finance,available,15.99,,high,low,7,name.com,,,
@@ -161,7 +161,7 @@ c5a8ec1c-984c-4e29-b37e-d2190c9b5f45,remember.finance,available,15.99,,high,low,
 657500ad-b326-4b51-9dc6-321a77bd2f58,response.finance,available,15.99,,high,low,8,name.com,,,
 337d457c-22c0-4d65-8a84-b2e854c74d2b,sickabed.finance,available,11.99,84.99,low,low,9,name.com,,,09/08/2026 07:12
 6549e4dd-648b-441d-a15b-19336229e7df,procrastinate.finance,available,15.99,,medium,low,13,name.com,,,
-32f7d318-6d08-4b96-b77e-897c8149605a,TBD.finance,available,15.99,,high,low,3,name.com,,,
+32f7d318-6d08-4b96-b77e-897c8149605a,tbd.finance,available,15.99,,high,low,3,name.com,,,
 301497c5-19f7-49bc-a439-dd14f6744225,short.finance,resell,,,high,low,5,"Sav.com, LLC",11/09/2025 16:24,11/09/2026 16:24,
 88d05daf-53e0-495d-bd1c-8a3764242eb1,evening.finance,available,15.99,,high,low,7,name.com,,,
 93bc1cba-253b-43e7-80f1-e0ffe5d53e1c,ascitic.finance,available,11.99,84.99,low,low,7,name.com,,,07/08/2026 01:06
@@ -176,12 +176,12 @@ a8c27cff-221a-4d1d-b599-5310e47ece90,ambulatory.finance,available,11.99,84.99,lo
 f103b008-c88c-4d4e-a824-f6d68d9a3e9d,audile.finance,available,11.99,84.99,low,low,6,name.com,,,07/08/2026 16:40
 c66d910f-3225-4127-98ec-ee748ca8c2d3,diminishing.finance,available,15.99,,high,low,11,name.com,,,
 0a3a7c36-f665-441f-8a32-f7ae23a63681,fail.finance,available,15.99,,medium,low,4,name.com,,,
-2b58e59a-29d0-42d3-84f6-888ee9ac66ee,NewDelhi.finance,premium,123.75,,medium,low,9,name.com,,,
+2b58e59a-29d0-42d3-84f6-888ee9ac66ee,newdelhi.finance,premium,123.75,,medium,low,9,name.com,,,
 507d7b30-cd55-469c-8e2b-c689048a540d,goodbooks.finance,available,15.99,,high,low,10,name.com,,,
 d9bdf0f9-35c2-4ec4-b572-54ed1f3abf33,stuffy.finance,available,11.99,84.99,low,low,6,name.com,,,
 5ed837c2-a009-401f-b185-7740f45af366,ametropic.finance,available,11.99,84.99,low,low,9,name.com,,,
 58a8d91b-9049-4614-b1d1-f97b80f9d55f,jointly.finance,available,15.99,,medium,low,7,name.com,,,
-99c95c3f-7433-4bb7-839e-9f18038d8f5a,Ihaveatemperature.finance,available,15.99,,medium,low,20,name.com,,,
+99c95c3f-7433-4bb7-839e-9f18038d8f5a,ihaveatemperature.finance,available,15.99,,medium,low,20,name.com,,,
 20785889-db8c-4873-82a5-47d0827e0def,tide.finance,resell,,,high,low,4,Dynadot Inc,21/08/2023 17:07,21/08/2026 17:07,
 856442fc-610c-498a-a37f-90a27805dde5,oatmeal.finance,available,15.99,,high,low,7,name.com,,,
 d1ada9e6-0f30-446d-8b15-b3e38b7e8cc5,standupto.finance,available,15.99,,low,low,11,name.com,,,
@@ -207,8 +207,7 @@ a56adc6c-1a6a-440a-881e-3ed1aea27744,acids.finance,available,15.99,,medium,low,5
 6b267ac1-1e5a-41a2-9200-abf00bef48b8,whatthehell.finance,available,15.99,,low,low,13,name.com,,,
 4e31dc33-ae9e-40ae-88b2-d160d944b9e0,sufficient.finance,available,15.99,,high,low,10,name.com,,,
 c1f39b3d-e362-4e6b-8e4f-02febc4112a3,bless.finance,resell,,,high,low,5,Dynadot Inc,20/01/2026 17:00,20/01/2027 17:00,
-5cc409fe-28a8-496d-bd10-6a57f0056259,canon.finance,available,,,high,low,5,,,,
-45887eeb-454a-41a7-9759-ae9d76d4e4ec,Gregorio.finance,available,15.99,,medium,low,8,name.com,,,
+45887eeb-454a-41a7-9759-ae9d76d4e4ec,gregorio.finance,available,15.99,,medium,low,8,name.com,,,
 92b31f53-b47a-4cb0-b237-cc2d5d4df65b,bathetic.finance,available,11.99,84.99,low,low,8,name.com,,,09/08/2026 00:28
 af279bc3-85b0-40b7-a267-220d827336ac,pertinent.finance,available,11.99,84.99,low,low,9,name.com,,,06/08/2026 07:59
 cd9ddf3b-11fc-4a20-b2ee-5bc6ec814802,lager.finance,available,15.99,,high,low,5,name.com,,,
@@ -221,7 +220,7 @@ edc4de4f-d7ab-4a40-b38e-ab7b125523a5,acarpelous.finance,available,11.99,84.99,lo
 6c0a5bdb-6d55-4279-ab19-a0372a8c37c7,dishonesty.finance,available,15.99,,medium,low,10,name.com,,,
 dbe0c953-e5db-4f52-af31-67583dfc5696,ailing.finance,available,11.99,84.99,low,low,6,name.com,,,
 804dbe40-2f33-4e0f-88df-ca9b21d8d17f,existing.finance,available,15.99,,medium,low,8,name.com,,,
-eaf3ef42-0cec-498c-9485-f217633c312f,DakotaCity.finance,available,15.99,,medium,low,11,name.com,,,
+eaf3ef42-0cec-498c-9485-f217633c312f,dakotacity.finance,available,15.99,,medium,low,11,name.com,,,
 0fdf5b3b-e611-4f26-9b33-3f356f519328,starred.finance,available,11.99,84.99,low,low,7,name.com,,,07/08/2026 08:52
 73c0fcc9-220a-4c1e-8a82-7cdfad59c730,veggiedog.finance,available,15.99,,high,low,10,name.com,,,
 ea47ac2f-1284-469a-8f9e-4e499a0acc8c,peeved.finance,available,,,medium,low,6,,,,
@@ -231,7 +230,6 @@ c1b3a940-4789-4139-9427-ed1b514ee934,arthurian.finance,available,11.99,84.99,low
 0cd3be01-e32b-4511-90c9-60d32c839771,forehead.finance,available,15.99,,high,low,8,name.com,,,
 be891599-85d5-4839-9488-9116e1925830,dragrace.finance,available,15.99,,high,low,9,name.com,,,
 12e0f211-3196-4d72-b4a9-4419cc96af08,baccate.finance,available,11.99,84.99,low,low,7,name.com,,,08/08/2026 04:03
-7d414738-3300-4746-8268-776c50d967ae,worm.finance,resell,,,medium,low,4,Dynadot Inc,19/07/2025 17:00,19/07/2026 17:00,
 77dbe493-5d1f-4f63-a25e-031de02f7a06,convincing.finance,available,15.99,84.99,high,low,10,name.com,,,
 3d220c15-cf72-46dc-9c1a-5fe353186df6,acuate.finance,available,11.99,84.99,low,low,6,name.com,,,
 214bd9b6-c728-4c92-b6bc-88999e17f1dd,whatnow.finance,available,15.99,,low,low,8,name.com,,,
@@ -270,12 +268,11 @@ e0858ce2-63b0-47a9-a2d2-7e1a458515ca,smaller.finance,available,15.99,,medium,low
 4e60c3c4-47be-46da-9060-14eca89310b6,stop.finance,resell,,,high,low,4,Dynadot Inc,28/12/2025 17:00,28/12/2026 17:00,
 eeddced6-1998-4dd6-ad36-7669411c5eb1,visible.finance,resell,,,high,low,7,"Sav.com, LLC - 18",31/10/2025 15:15,31/10/2026 15:15,
 5c22f72a-b0af-458e-829a-2afd634fb8a3,wagon.finance,premium,78.54,78.54,medium,low,5,namesilo,,,
-6940c3c0-b428-4565-addf-9138efcaed96,pizza.finance,resell,,,high,low,5,"NameCheap, Inc.",12/08/2020 23:53,12/08/2026 23:53,
 461e9c70-e727-4a61-b229-dc785124a94e,cultivable.finance,available,11.99,84.99,low,low,10,name.com,,,06/08/2026 11:20
 24c069b3-11ba-4866-b137-c14a92d33f62,reported.finance,available,15.99,,medium,low,8,name.com,,,
 273eae19-0ba7-4b68-b406-fe0a013a83ca,tasting.finance,available,15.99,,high,low,7,name.com,,,
 7126afb1-f1f8-42b9-bb7a-2d4cfee6b7b6,childneglect.finance,available,15.99,,medium,low,13,name.com,,,
-cca32cc9-7243-45eb-abbb-5c0da12bd7c9,WestEuropean.finance,available,15.99,,low,low,13,name.com,,,
+cca32cc9-7243-45eb-abbb-5c0da12bd7c9,westeuropean.finance,available,15.99,,low,low,13,name.com,,,
 e076aa1b-3aea-4f7e-8ccc-cc3fa2d072ee,thickandthin.finance,available,15.99,,low,low,14,name.com,,,
 84ef9aa4-0ce0-44be-9e83-0e1c2ea05bc5,endurance.finance,resell,,,high,low,9,Dynadot Inc,06/04/2026 17:01,06/04/2027 17:01,
 1c117271-dc90-4691-aeea-ee80ecf8be02,giveoff.finance,available,15.99,,medium,low,8,name.com,,,
@@ -308,7 +305,7 @@ d74d7631-f0a4-4725-8627-5ac9d18c161a,democratic.finance,available,15.99,84.99,me
 7b725e16-b0cd-4e1f-861c-4253ef4e1daa,turn.finance,resell,,,high,low,4,Dynadot Inc,30/03/2026 17:00,30/03/2027 17:00,
 547010e7-deb8-4a9c-be9b-42f489f2c697,tongue.finance,available,15.99,,medium,low,6,name.com,,,
 d10d5500-6c64-4b7a-a94c-523c1cda0b8f,inundated.finance,available,11.99,84.99,low,low,9,name.com,,,08/08/2026 00:29
-143e60d6-48a4-46d0-a30d-caf808613da1,network.finance,resell,,,high,medium,7,"Sav.com, LLC - 21",18/07/2025 15:15,18/07/2026 15:15,
+143e60d6-48a4-46d0-a30d-caf808613da1,network.finance,resell,,,low,low,7,"Spaceship, Inc.",18/07/2025 15:15,18/07/2027 15:15,19/09/2026 04:36
 a96d4213-e50c-4336-bfcf-56a0cf0cb0e1,aplanatic.finance,available,11.99,84.99,low,low,9,name.com,,,06/08/2026 00:29
 2b3ff46c-9676-4dc1-839f-bf77f1e15aa0,contracted.finance,available,15.99,84.99,medium,low,10,name.com,,,
 755f98d4-5356-45b7-a183-19bf15a22bc5,fold.finance,resell,,,high,low,4,"Sav.com, LLC - 19",08/01/2026 15:15,08/01/2027 15:15,
@@ -380,7 +377,7 @@ cdec7564-81d5-4ff9-8b47-9470b36e0de7,myspace.finance,available,,,high,low,7,,,,
 b3c57c8b-8ebb-4832-b3a3-0b393a687c71,bringon.finance,available,15.99,,high,low,8,name.com,,,
 08a075e4-25b9-4d52-bf39-6bd1bc131de2,alkaline.finance,available,15.99,84.99,high,low,8,name.com,,,
 e5b0dc02-42ca-42b7-9db1-efd5ff3e9ad4,xxiv.finance,available,11.99,84.99,low,low,4,name.com,,,
-0ce400ac-5103-4b75-a138-55a0524fc6cb,Tuesdays.finance,available,15.99,,low,low,8,name.com,,,
+0ce400ac-5103-4b75-a138-55a0524fc6cb,tuesdays.finance,available,15.99,,low,low,8,name.com,,,
 eb71207f-136b-4a8e-bcb7-b4106d2f02bc,auditive.finance,available,11.99,84.99,low,low,8,name.com,,,07/08/2026 16:49
 47cab621-8b1a-4134-bf7e-570eabba024b,dollarsign.finance,available,15.99,,medium,low,11,name.com,,,
 289e7110-4b4d-4819-a8a1-0e647e99522e,carrying.finance,available,15.99,,high,low,8,name.com,,,
@@ -400,7 +397,7 @@ b8561937-94d3-4d99-bc5b-3e0c74a3e685,backstairs.finance,available,11.99,84.99,lo
 f46a0151-f592-414a-bc28-6e6a94e2436b,amnesiac.finance,available,11.99,84.99,low,low,8,name.com,,,
 51d492db-8a03-4a41-b7bf-30fd314fe1de,coverup.finance,available,15.99,,medium,low,8,name.com,,,
 d7ec2807-5d45-4dda-88ec-2c3b817fd930,relevance.finance,available,15.99,,high,low,9,name.com,,,
-47f294bb-f4a5-4c03-9935-40f1101450b1,operation.finance,available,15.99,,high,low,9,name.com,,,
+47f294bb-f4a5-4c03-9935-40f1101450b1,operation.finance,available,20.99,64.99,medium,low,9,namesilo,,,19/09/2026 07:38
 e6d7c0c5-ea39-4de9-9083-438ba925e06a,guarantee.finance,available,15.99,,high,low,9,name.com,,,
 aeb88cd8-1979-4d3f-9410-baa8865dffa0,tilldate.finance,available,15.99,,low,low,9,name.com,,,
 b42d7723-b0a8-42da-8164-8c37c4492267,concern.finance,available,15.99,,high,low,7,name.com,,,
@@ -408,7 +405,7 @@ b42d7723-b0a8-42da-8164-8c37c4492267,concern.finance,available,15.99,,high,low,7
 17a6bbdf-7e50-4ffb-ab8a-3b5281d9c0fb,prick.finance,available,11.99,84.99,low,low,5,name.com,,,08/08/2026 23:38
 ae081af8-356e-45e0-a5d5-9ca623087489,indigenous.finance,available,11.99,84.99,low,low,10,name.com,,,07/08/2026 19:31
 dd327203-1d1f-41a8-8ee0-9c6c2b966ce6,regurgitate.finance,available,15.99,,high,low,11,name.com,,,
-641e6594-0e37-4c02-8874-2a716cd71d06,Rihanna.finance,available,15.99,,high,low,7,name.com,,,
+641e6594-0e37-4c02-8874-2a716cd71d06,rihanna.finance,available,15.99,,high,low,7,name.com,,,
 a791209d-f681-482a-8e6f-d19732202aba,abrupt.finance,available,11.99,84.99,low,low,6,name.com,,,
 6f24b78d-14b8-495f-acb9-d1e9b6863574,church.finance,resell,,,high,low,6,Dynadot Inc,18/02/2025 17:00,18/02/2026 17:00,
 e48d448a-62f2-4596-aeb1-d7234e1761bf,two.finance,resell,,,high,low,3,"Sav.com, LLC",02/04/2025 20:36,02/04/2027 20:36,
@@ -416,11 +413,11 @@ b1f15f0c-a8af-4680-9d9b-e1362a5ac6d2,swollen.finance,available,15.99,84.99,mediu
 988eb71f-ccb5-487b-81e3-3b5fddcb8e49,timer.finance,resell,,,high,low,5,Dynadot Inc,01/08/2025 17:00,01/08/2026 17:00,
 8bd30c3a-2c1a-46de-a302-bed8b5d17603,beatup.finance,available,15.99,,medium,low,7,name.com,,,
 1bdafb44-79e1-417c-9764-74060af4b63f,moneymarketfund.finance,available,15.99,,high,low,17,name.com,,,
-107d44ae-f583-49e9-bbb7-29ed7cd72b72,CNN.finance,available,15.99,,high,low,3,name.com,,,
-a2b5518c-0c3a-439c-ac34-cb4fc4275567,TimesSquare.finance,available,15.99,,low,low,12,name.com,,,
+107d44ae-f583-49e9-bbb7-29ed7cd72b72,cnn.finance,available,15.99,,high,low,3,name.com,,,
+a2b5518c-0c3a-439c-ac34-cb4fc4275567,timessquare.finance,available,15.99,,low,low,12,name.com,,,
 33eb5158-8bfb-41de-9b79-2efe5ceac535,voiceless.finance,available,11.99,84.99,low,low,9,name.com,,,05/08/2026 23:23
 d752abb9-10ef-4750-80dd-d7a4ba41b43d,angolan.finance,available,11.99,84.99,low,low,7,name.com,,,
-06b9e8db-7bd8-4548-9e26-0a9a89ab3d29,sunrise.finance,resell,,,high,low,7,Porkbun LLC,16/07/2023 15:15,16/07/2026 15:15,
+06b9e8db-7bd8-4548-9e26-0a9a89ab3d29,sunrise.finance,resell,,,high,low,7,Porkbun LLC,16/07/2023 15:15,16/07/2027 15:15,19/09/2026 08:36
 f1b5518c-b627-458c-9c99-ffccdd07769c,desk.finance,premium,78.54,78.54,medium,low,4,namesilo,,,08/09/2026 08:30
 85e3dc92-a60a-4008-b45c-4c3483266ebc,allergist.finance,available,15.99,,medium,low,9,name.com,,,
 1c5d41ff-9046-4059-8148-d060373cd315,sidelong.finance,available,11.99,84.99,low,low,8,name.com,,,07/08/2026 03:26
@@ -429,17 +426,17 @@ f1b5518c-b627-458c-9c99-ffccdd07769c,desk.finance,premium,78.54,78.54,medium,low
 6cc49300-37d9-4763-91bc-99f1d35c1bb5,clarity.finance,resell,,,high,medium,7,"GoDaddy.com, LLC",25/07/2020 21:16,25/07/2030 21:16,
 c071e31a-1506-4483-83ad-9d68bc1d4c04,awry.finance,available,11.99,84.99,low,low,4,name.com,,,
 2f702f06-984d-4a6d-b61a-628cfecbfd20,gonewrong.finance,available,15.99,,medium,low,10,name.com,,,
-3609d645-6a1e-4cf4-ae17-2c474cabb320,AsianTiger.finance,available,15.99,,medium,low,11,name.com,,,
-5c3f5e67-a991-42c1-8878-38308f5897a3,Fairs.finance,available,15.99,,high,low,5,name.com,,,
+3609d645-6a1e-4cf4-ae17-2c474cabb320,asiantiger.finance,available,15.99,,medium,low,11,name.com,,,
+5c3f5e67-a991-42c1-8878-38308f5897a3,fairs.finance,available,15.99,,high,low,5,name.com,,,
 2048a2d8-e87e-46cc-aba2-b07c4f848df0,robed.finance,available,11.99,84.99,low,low,5,name.com,,,06/08/2026 05:03
-0c935cba-5bb3-4933-9450-47b298e8d50a,Barbiepink.finance,available,15.99,,high,low,11,name.com,,,
+0c935cba-5bb3-4933-9450-47b298e8d50a,barbiepink.finance,available,15.99,,high,low,11,name.com,,,
 81108829-a9ee-4dee-9992-d0472174a0b2,congrats.finance,available,15.99,,high,low,8,name.com,,,
 05de5a14-f429-4be0-9287-203c9747b220,plunkfor.finance,available,11.99,84.99,low,low,9,name.com,,,08/08/2026 05:28
 1e98a43b-0ddb-4285-9160-155f19e6ddc7,deepest.finance,available,15.99,,medium,low,7,name.com,,,
 16eaaaec-1a13-493d-8f96-2984d6dab56d,awfulness.finance,available,15.99,,medium,low,9,name.com,,,
 befde8f0-6a3d-4def-bb4f-960901029f2d,rubbingoil.finance,available,15.99,,low,low,11,name.com,,,
 91266702-efe5-4e87-b1af-f3f4d0ac0a2e,aufait.finance,available,11.99,84.99,low,low,7,name.com,,,
-84ac12bd-e166-48ed-9daf-c24e72f978ec,Harold.finance,available,15.99,,high,low,6,name.com,,,
+84ac12bd-e166-48ed-9daf-c24e72f978ec,harold.finance,available,15.99,,high,low,6,name.com,,,
 8cdf8ac0-7ac0-443d-a4fa-9fc2f596e38d,fond.finance,available,15.99,84.99,high,low,4,name.com,,,
 d025ac8f-a175-4575-85fb-3f81048e81e1,conveyable.finance,available,11.99,84.99,low,low,10,name.com,,,07/08/2026 06:24
 77dee64a-6591-479f-8bc9-8753d73218c6,givesomeoneabreak.finance,available,15.99,,high,low,20,name.com,,,
@@ -453,7 +450,7 @@ d04a2cd8-953b-4735-a8a9-0c7a034ef025,control.finance,resell,,,medium,low,7,"Spac
 63771961-d13b-45d1-b0ab-218d4a05b04a,speech.finance,available,15.99,,high,low,6,name.com,,,
 df397461-3675-4317-b62a-a53248ed73aa,glasses.finance,available,15.99,,high,low,7,name.com,,,
 d20251eb-b1a3-4a6f-9cf1-22679aed3569,thirtytwo.finance,available,11.99,84.99,low,low,10,name.com,,,
-fb92ad19-6b18-45d6-b046-2cdfe8f43652,DIY.finance,resell,,,high,low,3,"Sav.com, LLC - 4",13/09/2025 15:15,13/09/2026 15:15,
+fb92ad19-6b18-45d6-b046-2cdfe8f43652,diy.finance,resell,,,high,low,3,"Sav.com, LLC - 4",13/09/2025 15:15,13/09/2026 15:15,
 c8a7621d-0c77-4396-819f-ccf1ac472a40,apodictic.finance,available,11.99,84.99,low,low,9,name.com,,,06/08/2026 01:27
 6417f252-500a-4e1d-ada3-8f813b2236fc,cornering.finance,available,15.99,,medium,low,9,name.com,,,
 b7049287-c425-442b-a1c5-0c7d5aae012a,achaean.finance,available,11.99,84.99,low,low,7,name.com,,,
@@ -489,7 +486,7 @@ e160d9cf-6c13-4ccb-96cb-7cb25a578d66,walk.finance,resell,,,high,low,4,Dynadot In
 84958084-9572-48a6-9bf3-c4cbdc4fa0c5,indespiteof.finance,available,15.99,,medium,low,13,name.com,,,
 381d7f7d-34c1-40d8-b527-f64ad475b195,slip.finance,available,,,high,low,4,,,,
 c0cfeeca-ec5a-4c58-92e9-ee7cfd18f535,keepup.finance,available,15.99,,high,low,7,name.com,,,
-28180a5f-5991-4e38-8f8f-cc5d79a8b455,Fingers.finance,available,15.99,,medium,low,7,name.com,,,
+28180a5f-5991-4e38-8f8f-cc5d79a8b455,fingers.finance,available,15.99,,medium,low,7,name.com,,,
 9e482e6c-5bd7-4acc-9b11-c34f46978bb8,passengerseat.finance,available,15.99,,high,low,14,name.com,,,
 d451da10-5ec0-4f06-8e71-08fa17bec46d,rejected.finance,available,15.99,,medium,low,8,name.com,,,
 fb37f1e0-15c5-4911-8e95-599402f1720f,majorleague.finance,available,15.99,,high,low,12,name.com,,,
@@ -507,7 +504,7 @@ f51b15c4-d827-4960-930d-8d0a9bf07838,meaning.finance,available,15.99,,high,low,7
 ad3b7c7f-cce1-4db7-8b1b-220c5c41c2a9,aboveabit.finance,available,15.99,,medium,low,11,name.com,,,
 4339f163-bd61-4182-863d-43cd04986ce7,normality.finance,available,15.99,,high,low,9,name.com,,,
 ea1d7e08-6aac-4e22-8a7e-80dd1880471b,seattle.finance,premium,118.8,118.8,high,low,7,namesilo,,,
-5662e5a2-6994-4e80-8dde-830caa4e7d18,UnitedStates.finance,available,,,low,low,13,,,,
+5662e5a2-6994-4e80-8dde-830caa4e7d18,unitedstates.finance,available,,,low,low,13,,,,
 c83495dd-8c16-41bf-ac6e-6a51c04575d1,affinity.finance,available,,,high,low,8,,,,
 69d27be0-b76e-4b28-b84e-f19785374d6d,modelt.finance,available,15.99,,high,low,7,name.com,,,
 33c5b037-53b6-470a-ab18-edee439da084,friendly.finance,resell,,,medium,low,8,UM DOMAINS PTE. LTD,24/06/2026 15:15,24/06/2027 15:15,08/09/2026 09:53
@@ -518,7 +515,7 @@ c11b19c8-800e-4f12-a9f9-4c179e672663,muhfuggah.finance,available,15.99,,medium,l
 d28bd575-d439-413d-99c3-49790bc71668,member.finance,premium,250,,high,low,6,name.com,,,
 49346d8c-9105-4063-907f-7a6d6ac756fd,washing.finance,available,15.99,,high,low,7,name.com,,,
 78fa02ea-585c-47fe-be34-d061ab6785ac,banausic.finance,available,11.99,84.99,low,low,8,name.com,,,08/08/2026 11:29
-6422fdca-b334-40af-a0e5-9e74f0e93fb7,Christalmighty.finance,available,15.99,,high,low,15,name.com,,,
+6422fdca-b334-40af-a0e5-9e74f0e93fb7,christalmighty.finance,available,15.99,,high,low,15,name.com,,,
 85b6b043-5eb0-4d08-92d1-5efe0796b4f9,happybirthday.finance,available,15.99,,high,low,14,name.com,,,
 65c666ca-ec34-47a7-8a02-f8163c46fddf,engrossed.finance,available,15.99,84.99,high,low,9,name.com,,,
 f62f0737-641a-4172-88c8-507da23e46da,recondite.finance,available,11.99,84.99,low,low,9,name.com,,,
@@ -527,7 +524,7 @@ cbb87aed-f9e6-457e-9627-19cafc450e71,pitfall.finance,available,15.99,,medium,low
 8236a3fc-94bd-49b2-b819-46ba3f5ebab9,taxation.finance,premium,118.8,118.8,medium,low,8,namesilo,,,
 5070530e-a7de-4838-9c17-5faa337ab685,agonising.finance,available,11.99,84.99,low,low,9,name.com,,,
 332d05b3-9238-48e0-85f3-abf54db25cea,nike.finance,available,,,high,low,4,,,,
-0b344360-ea1a-4afa-aba7-87d6fcf30457,transfer.finance,premium,118.8,118.8,medium,low,8,namesilo,,,12/09/2026 03:56
+0b344360-ea1a-4afa-aba7-87d6fcf30457,transfer.finance,premium,118.8,118.8,medium,low,8,namesilo,,,19/09/2026 03:42
 4aa32f27-09e0-4de2-83fd-1e17063118a0,streetcleaner.finance,available,15.99,,low,low,14,name.com,,,
 d433d473-e4ba-42e7-b509-1511b785d9cb,baghdad.finance,available,15.99,,medium,low,7,name.com,,,
 af5fcf3f-cef3-4c97-ab6a-8cdcc4150bcd,inspired.finance,resell,,,high,low,8,Dynadot Inc,29/05/2025 10:18,29/05/2026 10:18,
@@ -539,14 +536,13 @@ ae048e0e-4c87-49df-959d-15a24de487b5,aldermanic.finance,available,11.99,84.99,lo
 1a9d4c50-6592-46e8-800f-4d958e274e2f,changes.finance,available,15.99,,medium,low,7,name.com,,,
 d899e05e-e0d6-4e9d-bdf9-024a2c34f147,musiccenter.finance,available,15.99,,high,low,12,name.com,,,
 96228528-fcdf-4ad7-bbcc-df361098c8c5,conflicted.finance,available,15.99,,medium,low,10,name.com,,,
-337ca0ec-174c-4a24-99e1-40a6b1786163,investment.finance,premium,854,854,high,low,10,namesilo,,,
+337ca0ec-174c-4a24-99e1-40a6b1786163,investment.finance,premium,1040,1040,medium,low,10,namecheap,,,19/09/2026 04:38
 c59c1de0-d812-45fb-9bc8-dcf3e780b180,dull.finance,available,15.99,,medium,low,4,name.com,,,
 3d123c2b-71c1-4e83-9d18-f7f0fab0533f,injure.finance,available,15.99,,medium,low,6,name.com,,,
 c456b520-1bfb-48ff-a5a3-ec4d582f28ff,advective.finance,available,11.99,84.99,low,low,9,name.com,,,
 3375bf1b-a894-4de3-bd39-5ed8e037f52a,accentual.finance,available,11.99,84.99,low,low,9,name.com,,,
 48c80564-b013-485e-be1c-f9ea97861f8a,amok.finance,available,11.99,84.99,low,low,4,name.com,,,
-51afb58f-76d6-4745-88bf-503c26a414d0,district.finance,resell,,,medium,low,8,Dynadot Inc,20/07/2025 07:42,20/07/2026 07:42,
-d3baa562-9009-4611-b7bb-6119467de6cd,LaurelandHardy.finance,available,15.99,,medium,low,16,name.com,,,
+d3baa562-9009-4611-b7bb-6119467de6cd,laurelandhardy.finance,available,15.99,,medium,low,16,name.com,,,
 0af81efd-ed0f-4ee7-aed3-d5ea1726d887,yearbook.finance,available,15.99,,high,low,8,name.com,,,
 cc4bd8b5-d0de-473d-8e88-5dbd51f6cc92,label.finance,resell,,,high,low,5,Dynadot Inc,17/12/2022 07:16,17/12/2026 07:16,
 3010b95a-c8e2-4020-b17a-dfe554e8d817,boxers.finance,available,15.99,,high,low,6,name.com,,,
@@ -571,7 +567,7 @@ a9fb120b-b1df-43d2-8a82-32e896718330,sunburst.finance,available,15.99,,high,low,
 e1ff17f7-aaf0-4ba3-bfcb-f382fd8397a1,email.finance,resell,,,high,medium,6,Dynadot Inc,03/04/2026 17:04,03/04/2027 17:04,
 888730c4-e633-4341-a016-0145d9ac5753,ticketwindow.finance,available,15.99,,medium,low,13,name.com,,,
 7368ea47-2edf-4b4d-9c51-f1e358b84186,dealtout.finance,available,11.99,84.99,low,low,9,name.com,,,06/08/2026 07:27
-56d2506a-fd4c-4bdc-bcd3-ceea0d9f47ca,Czechoslovakia.finance,available,15.99,,medium,low,14,name.com,,,
+56d2506a-fd4c-4bdc-bcd3-ceea0d9f47ca,czechoslovakia.finance,available,15.99,,medium,low,14,name.com,,,
 597c6bfb-cc0d-49d9-9ae9-d437dcaa3164,aslongas.finance,available,15.99,,medium,low,10,name.com,,,
 b1594fcc-4e77-4daf-9481-663ecd968289,archosaur.finance,available,11.99,84.99,low,low,9,name.com,,,06/08/2026 15:57
 0290ef64-871c-41b3-ab6c-74f79bdd03b0,premiere.finance,available,15.99,,high,low,8,name.com,,,
@@ -598,7 +594,7 @@ abadf8e2-c861-4bb0-ad85-f21cd4dbcf50,hackneyed.finance,available,11.99,84.99,low
 048ecc79-bafc-4721-a326-9f1d0a4c5bb9,directly.finance,available,15.99,84.99,high,low,8,name.com,,,
 7cac4ed5-6ded-4ca4-ae88-b3c1f8bbedf7,retiring.finance,available,15.99,,high,low,8,name.com,,,
 0d1709da-c67d-4a5a-91ad-cfde19412a11,waken.finance,available,11.99,84.99,medium,low,5,name.com,,,08/08/2026 00:08
-726fa218-c8c2-4ad9-91d5-fd9108faf263,electronic.finance,resell,,,medium,low,10,"NameSilo, LLC",31/08/2024 10:20,31/08/2027 10:20,08/09/2026 07:20
+726fa218-c8c2-4ad9-91d5-fd9108faf263,electronic.finance,resell,,,low,low,10,"NameSilo, LLC",31/08/2024 10:20,31/08/2027 10:20,19/09/2026 14:31
 09472f83-e8b6-4697-9bef-b8a24d1d18b3,thehardway.finance,available,15.99,,low,low,12,name.com,,,
 f0e2b5d8-649c-4512-a0a9-1422b8fadeb9,asteroid.finance,resell,15.99,,medium,low,8,Porkbun LLC,21/03/2026 12:38,21/03/2027 12:38,
 73fb4506-8866-4e6d-8d72-07baa068f525,hotticket.finance,available,15.99,,high,low,10,name.com,,,
@@ -624,7 +620,7 @@ cd974329-b1b3-4237-b0b2-b69947276183,onetime.finance,available,15.99,,medium,low
 7e055113-3ad9-4c49-a9fc-86aedd05dba9,allocable.finance,available,11.99,84.99,low,low,9,name.com,,,
 52e1c427-b325-40fd-a291-19983a895991,mac.finance,available,,,high,low,3,,,,
 a65e680d-75ca-48af-85a7-2ea803fcc55e,pleaseexplain.finance,available,15.99,,high,low,14,name.com,,,
-fa563269-d8ce-4be9-8077-2066f8b106d6,UnitedKingdom.finance,available,,,low,low,14,,,,
+fa563269-d8ce-4be9-8077-2066f8b106d6,unitedkingdom.finance,available,,,low,low,14,,,,
 bdba6140-28e8-4148-9b99-33117ebf3d8e,impression.finance,available,15.99,,high,low,10,name.com,,,
 da750ddb-a566-4e37-b06a-cf339b969d49,letterbox.finance,available,15.99,,medium,low,10,name.com,,,
 91a102ed-6c52-4476-ac1b-4696f5784924,mills.finance,available,15.99,,medium,low,5,name.com,,,
@@ -636,7 +632,7 @@ cbe22801-c9e1-42a9-b4b0-a77644cd08d7,warofwords.finance,available,15.99,,low,low
 f72dc86b-8103-4a95-a5ab-0a9e45966a74,trauma.finance,available,15.99,,medium,low,6,name.com,,,
 09ce25fe-6931-418c-b935-c7bc68b41b44,tossout.finance,available,15.99,,medium,low,8,name.com,,,
 82da545f-28e0-4715-be6a-e902a045b2d6,haveonemoretime.finance,available,15.99,,medium,low,18,name.com,,,
-977d6fd3-cd6e-43c0-9668-c5ceefef8f31,large.finance,available,17.48,82.98,medium,low,5,namecheap,,,15/09/2026 03:10
+977d6fd3-cd6e-43c0-9668-c5ceefef8f31,large.finance,available,20.99,64.99,medium,low,5,namesilo,,,19/09/2026 10:18
 48880aa8-c91a-4ec8-b5f2-1bdb40d417a9,onehundred.finance,available,15.99,,low,low,11,name.com,,,
 0e024390-6f66-40d1-9bf4-80c5fb1e2af3,lxviii.finance,available,11.99,84.99,low,low,6,name.com,,,
 00c0f4e0-2e4d-4e8a-b5c1-7526343ba8ce,pointout.finance,available,15.99,,low,low,9,name.com,,,
@@ -662,7 +658,7 @@ a4c69bf6-18cb-4e39-80f9-16ff8550f565,bedewed.finance,available,11.99,84.99,low,l
 bb466a01-6aed-43a6-8501-5542e511c83b,converse.finance,available,,,medium,high,8,,,,
 3ef19978-647a-440b-8567-11454e618530,inthethickof.finance,available,15.99,,medium,low,15,name.com,,,
 25e26716-5c16-4808-8384-b722584a1922,nutty.finance,available,11.99,84.99,low,low,5,name.com,,,06/08/2026 21:27
-bcf66d6a-2f28-4333-bd3d-f1acc22a4e87,SSI.finance,resell,,,medium,low,3,Dynadot Inc,07/03/2026 17:04,07/03/2027 17:04,
+bcf66d6a-2f28-4333-bd3d-f1acc22a4e87,ssi.finance,resell,,,medium,low,3,Dynadot Inc,07/03/2026 17:04,07/03/2027 17:04,
 fbbf58c7-02a1-4986-8d81-18bbc17a43be,owe.finance,premium,118.8,118.8,high,low,3,namesilo,,,
 6439af59-3ef4-41d9-a904-781076c422ab,gaydog.finance,available,15.99,,medium,low,7,name.com,,,
 2bb05825-5d5d-4c12-8373-bca20e35f3a5,altaic.finance,available,11.99,84.99,low,low,6,name.com,,,
@@ -687,7 +683,6 @@ d9b5db0d-00f3-4640-89d8-f7a5f1db1abb,generalpopulation.finance,available,15.99,,
 b1547b0e-482c-478b-b130-28ebc531272c,hug.finance,resell,15.99,,high,low,3,Dynadot Inc,30/04/2026 12:23,30/04/2027 12:23,
 320fe191-e59e-470d-83be-f103ea646b54,mosque.finance,available,15.99,,high,low,6,name.com,,,
 a98c5921-fb83-4aea-b66c-e50a5b40f213,yesno.finance,available,15.99,,low,low,6,name.com,,,
-ef21ef12-52a2-46df-9ebc-584a3ce6680a,windows.finance,available,,,medium,low,7,,,,
 254f9b60-0ae9-450c-b299-b9a0c648d3ed,wastebasket.finance,available,15.99,,high,low,11,name.com,,,
 9ecd3140-549f-4010-9d21-c676bdbdcd18,snakeoil.finance,available,15.99,,low,low,9,name.com,,,
 c77b7928-5092-47fd-afa7-125c0cfb1555,ensuant.finance,available,11.99,84.99,low,low,7,name.com,,,
@@ -706,7 +701,7 @@ df862b1a-1512-4c3b-8e60-0ec5e936c04d,departmentstore.finance,available,15.99,,hi
 da0199ed-77d4-4779-b380-d065c1705b4e,strawberry.finance,resell,,,high,low,10,Dynadot Inc,13/01/2026 17:00,13/01/2027 17:00,
 be808c25-0f27-4a23-a8a7-7796c6b69709,blocked.finance,available,15.99,,medium,low,7,name.com,,,
 6c8327fe-ac04-496c-b6fd-1bccdd8aa40a,contented.finance,available,15.99,84.99,high,low,9,name.com,,,
-e5cad29d-3b31-4cb7-8683-e0ed9ad4ed1d,Rhiannon.finance,available,15.99,,high,low,8,name.com,,,
+e5cad29d-3b31-4cb7-8683-e0ed9ad4ed1d,rhiannon.finance,available,15.99,,high,low,8,name.com,,,
 4895f844-f6ab-4db1-ae4b-30e2b439766b,scratched.finance,available,15.99,,medium,low,9,name.com,,,
 551b8419-b114-4420-88f2-292dafa4d38b,bucolic.finance,available,11.99,84.99,low,low,7,name.com,,,06/08/2026 14:14
 4a3ee059-39ff-42c3-b386-480aa51e6fd7,rowingboat.finance,available,15.99,,high,low,11,name.com,,,
@@ -740,7 +735,7 @@ c518a1ff-567a-4f2f-941a-8210aba65d13,courses.finance,available,15.99,,high,low,7
 50777c56-bc1b-41a0-aee8-1fa98ef69e16,notions.finance,available,15.99,,low,low,7,name.com,,,
 a9ba0220-ab4b-46d7-811a-87bcf892c109,equal.finance,resell,,,high,low,5,Dynadot Inc,27/02/2024 17:00,27/02/2027 17:00,
 a30f5f20-4bf7-4206-a73b-57c550bd02a6,keeping.finance,available,15.99,,high,low,7,name.com,,,
-cc51d018-9a18-406c-9bd9-5afcaee0eeac,StudioCity.finance,available,15.99,,low,low,11,name.com,,,
+cc51d018-9a18-406c-9bd9-5afcaee0eeac,studiocity.finance,available,15.99,,low,low,11,name.com,,,
 cdda715b-77bf-4e3d-87a6-1da90acc8fd7,revolt.finance,available,,,high,low,6,,,,
 bb739f6f-3a2c-4647-9ea6-6e5f2e8fd27e,avionic.finance,available,11.99,84.99,low,low,7,name.com,,,07/08/2026 23:35
 bb27c8d1-80ab-464e-be8a-15f48b5baa4d,attempted.finance,available,11.99,84.99,low,low,9,name.com,,,07/08/2026 15:12
@@ -750,7 +745,6 @@ cba0911d-ff84-4f52-811d-5bbabe0cabad,astern.finance,available,11.99,84.99,low,lo
 c9f374eb-2b41-4fc7-b14f-0da84b79301c,bahamas.finance,available,,,high,low,7,,,,
 1603fe9c-ef8c-4d39-8b9b-3969e9434418,reveal.finance,available,15.99,,high,low,6,name.com,,,
 27832a2f-e137-43bb-ba15-1d9723705866,frequently.finance,available,15.99,,medium,low,10,name.com,,,
-86249b58-5b8f-46ea-a5d9-0add2c9167c8,newlook.finance,available,,,low,low,8,,,,
 6824dbbd-ee83-45bd-ad33-3d84d9087435,redplanet.finance,available,15.99,,medium,low,10,name.com,,,
 5904a073-7403-4a4f-9045-e47fb9ced053,attentive.finance,available,15.99,,medium,low,9,name.com,,,
 eae33006-1628-48b2-a839-01b3a627e7f0,contempt.finance,available,15.99,,medium,low,8,name.com,,,
@@ -775,7 +769,7 @@ b6180436-f8e6-482c-84ca-bc3651c005c8,theyre.finance,available,15.99,,medium,low,
 056b77df-5ff2-4f1b-8799-e47a40f781b3,concertroom.finance,available,15.99,,medium,low,12,name.com,,,
 4c811028-0b81-4ff2-826c-e955fb0a8713,antitoxic.finance,available,11.99,84.99,low,low,9,name.com,,,05/08/2026 19:55
 a24ba042-c013-4efb-a3ba-1664a0e3bb72,cavitied.finance,available,11.99,84.99,low,low,8,name.com,,,
-1e1e8812-30c5-4a51-b226-c4e45773a1f5,Olympicflame.finance,available,15.99,,high,low,13,name.com,,,
+1e1e8812-30c5-4a51-b226-c4e45773a1f5,olympicflame.finance,available,15.99,,high,low,13,name.com,,,
 f271444f-894f-4bbb-b8e6-c73977ac7e6b,saw.finance,available,15.99,,high,low,3,name.com,,,
 08c9b462-8106-4b76-8d63-6438d28992a2,looking.finance,available,15.99,,high,low,7,name.com,,,
 d9c6b179-7e03-4f60-88ed-fe6c9717e0ad,lynxeyed.finance,available,11.99,84.99,low,low,9,name.com,,,06/08/2026 18:48
@@ -790,7 +784,7 @@ ac816a6a-b54d-4961-86d9-0a831ec9dd3c,afflictive.finance,available,11.99,84.99,lo
 58a0f441-6229-4e64-8e49-ad91759ce04e,accordant.finance,available,11.99,84.99,low,low,9,name.com,,,
 554c9fe8-3ee7-4d26-90e9-4450c3609d0c,lviii.finance,available,11.99,84.99,low,low,5,name.com,,,
 e0739477-f245-4344-86df-cc7cc65c8ccf,aegeansea.finance,available,11.99,84.99,low,low,10,name.com,,,
-93815f69-70cc-4a47-9055-ca8c3d8ad2a6,MasterofArts.finance,available,15.99,,medium,low,14,name.com,,,
+93815f69-70cc-4a47-9055-ca8c3d8ad2a6,masterofarts.finance,available,15.99,,medium,low,14,name.com,,,
 cf914415-8256-465d-8c4d-5caac16f591f,avellane.finance,available,11.99,84.99,low,low,8,name.com,,,07/08/2026 22:29
 691c78b4-7a52-48ce-a213-3a9ef96b9c5e,closeoff.finance,available,15.99,,high,low,9,name.com,,,
 dc35d7bb-ead5-4602-b7b7-90fdf938bf59,astonish.finance,available,15.99,,high,low,8,name.com,,,
@@ -800,7 +794,7 @@ fa11c281-d525-44e5-a89b-6fc328fc5830,mealdeal.finance,available,15.99,,high,low,
 c12c0074-2dc5-4020-abf0-729bb5388968,xoxoxo.finance,available,15.99,,high,low,6,name.com,,,
 ee51f9e8-99f1-4bbd-8507-4e74feaeb1e3,awninged.finance,available,11.99,84.99,low,low,8,name.com,,,08/08/2026 01:30
 f488b588-cfd5-47f7-9546-18c16b12c5ba,artist.finance,resell,,,high,low,6,Porkbun LLC,01/08/2025 10:10,01/08/2026 10:10,
-57a7c115-6968-4e33-b171-512d9625c328,Ilikepie.finance,available,15.99,,medium,low,10,name.com,,,
+57a7c115-6968-4e33-b171-512d9625c328,ilikepie.finance,available,15.99,,medium,low,10,name.com,,,
 56f6faef-7191-49ef-9b4c-b66f8a2a9fbf,wasted.finance,available,15.99,,medium,low,6,name.com,,,
 2414508d-d6aa-4b46-bfce-7bbfee2c3d9d,unused.finance,available,15.99,,medium,low,6,name.com,,,
 8c995510-f9c0-4c64-a360-3f96dd7c7739,cafeterrace.finance,available,15.99,,high,low,12,name.com,,,
@@ -818,7 +812,7 @@ db4c0549-cd08-4358-adba-7ddb78b8d631,muhfuckah.finance,available,15.99,,medium,l
 a3cd5d4f-a51e-47e4-a535-a2ce3d744387,skyblue.finance,available,11.99,84.99,medium,low,8,name.com,,,08/08/2026 03:14
 affb9ba1-ae80-46c8-9649-4a78affa5fc4,effectively.finance,available,15.99,,medium,low,11,name.com,,,
 55ab2359-6089-424a-a940-35152af42486,gopublic.finance,available,15.99,,medium,low,9,name.com,,,
-005415e2-850d-4160-b8bf-e47fa546f9d7,Schneider.finance,available,15.99,,medium,low,9,name.com,,,
+005415e2-850d-4160-b8bf-e47fa546f9d7,schneider.finance,available,15.99,,medium,low,9,name.com,,,
 ebf55af0-87c6-428b-bbec-513826225427,niner.finance,available,11.99,84.99,low,low,5,name.com,,,
 a1863cb4-00d2-4be1-b276-f600880a081a,lowdown.finance,available,11.99,84.99,low,low,8,name.com,,,
 aa9690d2-8b4b-4405-8ae1-da0a9b92e2c3,headtohead.finance,available,15.99,,medium,low,12,name.com,,,
@@ -888,7 +882,7 @@ cdeb56c9-034c-422b-b16c-39c972f0dafc,allright.finance,available,15.99,84.99,medi
 2931331d-db2a-4667-bc9b-3163df2c4172,idiotic.finance,available,15.99,84.99,medium,low,7,name.com,,,
 90753584-084e-47e9-a961-78fbc0d78f20,avenged.finance,available,11.99,84.99,low,low,7,name.com,,,07/08/2026 22:35
 67d4a607-67c8-40a0-8d74-a042aeb675ad,could.finance,available,15.99,,high,low,5,name.com,,,
-56da8542-75fc-4b33-bce5-4428157260ca,backup.finance,resell,,,high,low,6,Dynadot Inc,14/02/2026 17:01,14/02/2027 17:01,
+56da8542-75fc-4b33-bce5-4428157260ca,backup.finance,resell,,,medium,low,6,Dynadot Inc,14/02/2026 17:01,14/02/2027 17:01,20/09/2026 03:14
 249e12c4-2ee6-40bc-83c9-7630dd244f7d,multiple.finance,resell,,,high,low,8,Dynadot Inc,13/10/2025 17:00,13/10/2026 17:00,
 6a9e6efe-c7a1-47d8-a311-3c7eb37ae88e,woman.finance,available,15.99,,high,low,5,name.com,,,
 c5116eab-3089-4ead-abbe-cf506becbc48,norwegian.finance,available,15.99,,medium,low,9,name.com,,,
@@ -908,7 +902,7 @@ d3b26b5f-9d91-4eaf-96a2-aac8e0d609c7,vexation.finance,available,11.99,84.99,low,
 ab3006ed-3d4f-4397-9b59-825109c57fcd,resonating.finance,available,15.99,,medium,low,10,name.com,,,
 0c6b66a8-5fb5-40cc-974e-972fc88cf79f,super.finance,resell,,,medium,medium,5,"NameSilo, LLC",14/12/2017 09:56,14/12/2026 09:56,
 48387407-29ec-4a4a-96e8-97efcc8723fc,emergency.finance,available,15.99,,medium,low,9,name.com,,,
-89e52fd9-c79c-404a-b65d-45757138a9e0,TexasCity.finance,available,15.99,,low,low,10,name.com,,,
+89e52fd9-c79c-404a-b65d-45757138a9e0,texascity.finance,available,15.99,,low,low,10,name.com,,,
 60441f24-8636-456f-a88d-c5193439a857,marchon.finance,available,15.99,84.99,medium,low,8,name.com,,,
 9e91e3f0-29d7-4934-952a-99ecade4799f,invisible.finance,resell,,,high,low,9,"Sav.com, LLC - 26",10/03/2026 15:15,10/03/2027 15:15,
 23544308-e3ce-4f7d-a21a-16e6a2952c81,motherfugga.finance,available,15.99,,medium,low,11,name.com,,,
@@ -936,7 +930,7 @@ d56c38f9-06bb-4b2b-83bc-01c7f1b9c7f2,flowerbox.finance,available,15.99,,high,low
 e8086da7-f648-4c13-99de-2bdf02cd5138,fallen.finance,available,15.99,,high,low,6,name.com,,,
 5607c3b0-4576-4121-b243-635d531b949f,barren.finance,available,11.99,84.99,low,low,6,name.com,,,08/08/2026 20:57
 c68df870-1269-4f2c-81c6-0cae922b3346,ninetytwo.finance,available,11.99,84.99,low,low,10,name.com,,,
-acf72b25-2b13-4290-bdaf-7b3234cb788f,GoodFriday.finance,available,15.99,,medium,low,11,name.com,,,
+acf72b25-2b13-4290-bdaf-7b3234cb788f,goodfriday.finance,available,15.99,,medium,low,11,name.com,,,
 d0ca16f3-377d-4b8f-8b84-37daef22bd83,butthenagain.finance,available,15.99,,medium,low,14,name.com,,,
 26c157aa-d146-4e62-9bc0-e7ae6dc3b5de,incompatible.finance,available,15.99,,high,low,12,name.com,,,
 7308c63e-8779-47dd-b4d9-4c47b53b71b1,flu.finance,premium,78.54,78.54,medium,low,3,namesilo,,,
@@ -944,7 +938,7 @@ d0ca16f3-377d-4b8f-8b84-37daef22bd83,butthenagain.finance,available,15.99,,mediu
 db0dc4ad-87f4-449f-bb82-821315de0543,cappuccino.finance,available,15.99,,high,low,10,name.com,,,
 fb16b9da-d7fb-4b13-abc1-830b106c02a0,guard.finance,resell,,,medium,low,5,Dynadot Inc,16/11/2021 17:00,16/11/2026 17:00,
 c69fb13a-dbe2-4c48-ab49-c964c54abe7d,ttyl.finance,available,15.99,,low,low,4,name.com,,,
-b48aa974-9397-422c-b070-609859ecb261,MacBook.finance,available,,,high,low,7,,,,
+b48aa974-9397-422c-b070-609859ecb261,macbook.finance,available,,,high,low,7,,,,
 6210d1de-ea09-4ec9-ad72-1852f8b73e18,howyousay.finance,available,15.99,,medium,low,11,name.com,,,
 9f975089-2ab1-46df-aecb-c4ef5b0cce5c,aftuh.finance,available,15.99,,medium,low,5,name.com,,,
 b4d0d3b8-4858-47ed-b0be-73b4d051940f,sextet.finance,available,11.99,84.99,low,low,6,name.com,,,
@@ -960,8 +954,7 @@ d4f258cf-67ac-4b71-b63a-a2b96ddbc624,howgoesthewar.finance,available,15.99,,medi
 0131f24c-86c1-4a3d-8dd3-a0c5cbf0de42,childprostitution.finance,available,15.99,,medium,low,18,name.com,,,
 66249708-372f-41d2-8b1c-c85aa15e25fa,lookupon.finance,available,15.99,,high,low,9,name.com,,,
 cd3b5407-98bc-4d87-8bf2-62d9c6493180,awlshaped.finance,available,11.99,84.99,low,low,10,name.com,,,08/08/2026 01:10
-11d351aa-2986-4943-9a3d-62fb19eda980,USBdrive.finance,available,15.99,,high,low,9,name.com,,,
-a86e40b0-f07f-4d17-9224-455e8d8e8dd9,glitter.finance,resell,,,high,low,7,Dynadot Inc,20/07/2025 17:00,20/07/2026 17:00,
+11d351aa-2986-4943-9a3d-62fb19eda980,usbdrive.finance,available,15.99,,high,low,9,name.com,,,
 8678f350-fa79-4080-ba82-d696e1cbe955,placatory.finance,available,11.99,84.99,low,low,9,name.com,,,06/08/2026 06:12
 c766dbc3-85e1-4290-a5ef-421a77b5d357,civiltime.finance,available,15.99,,medium,low,10,name.com,,,
 55222320-4688-4990-89f7-d5a1a2e59f34,hydroponic.finance,available,11.99,84.99,low,low,10,name.com,,,06/08/2026 10:34
@@ -970,7 +963,7 @@ c085f66c-9e42-4b72-bfb7-df837645b0f1,hawaii.finance,available,,,high,low,6,,,,
 eb7e3129-2227-4b2f-b647-9217c679cece,thoseones.finance,available,15.99,,low,low,10,name.com,,,
 3ad2a983-f31a-4b59-a21a-0237e5da6d5a,finale.finance,available,15.99,,high,low,6,name.com,,,
 0558105c-9ec4-4f89-8ee0-fa0deb54e278,listenin.finance,available,15.99,,medium,low,9,name.com,,,
-6789d2fb-8e4c-4fb7-a802-cb0c76313fad,midFebruary.finance,available,15.99,,high,low,12,name.com,,,
+6789d2fb-8e4c-4fb7-a802-cb0c76313fad,midfebruary.finance,available,15.99,,high,low,12,name.com,,,
 90025696-52d8-41ca-849e-366e4fa23705,resounding.finance,available,15.99,,high,low,10,name.com,,,
 b3b5a99a-be67-46d7-badc-75d3ccf49644,actiongame.finance,available,15.99,,high,low,11,name.com,,,
 a36eae34-0a17-424f-ae94-120894633187,obviously.finance,available,15.99,,medium,low,9,name.com,,,
@@ -999,3 +992,10 @@ f33d260b-ff13-407f-91ce-23c7af54afe7,inlovewith.finance,available,15.99,,medium,
 357a1aef-df93-4f51-91c9-dfffb8572bc5,masculine.finance,available,15.99,,high,low,9,name.com,,,
 9a81125a-98f4-439d-8fd9-f2feb4dfba8a,increasing.finance,available,15.99,,high,low,10,name.com,,,
 5958cf9b-286b-4a01-9aa3-981d996ebfb7,serialkiller.finance,available,15.99,,medium,low,13,name.com,,,
+5b3d5b35-2d05-4c14-b49f-4db28cd5c84e,beetling.finance,available,11.99,84.99,low,low,8,name.com,,,09/08/2026 08:22
+aca5f4b3-d361-4f55-b98b-23e7bfcdeea5,descend.finance,available,15.99,,high,low,7,name.com,,,
+e33936ba-fc5d-4ec4-a178-eed72d574966,developed.finance,available,15.99,84.99,high,low,9,name.com,,,
+e9dff5c5-0b4b-402c-927a-8b947ecf1461,transportation.finance,available,17.48,82.98,low,low,14,namecheap,,,19/09/2026 03:16
+0e49d373-a87a-40e6-b9a7-6ed953f615f6,middleclass.finance,available,15.99,,high,low,12,name.com,,,
+c3667bd3-9f5f-4fe9-921f-65e22d5079c4,talkof.finance,available,15.99,,low,low,7,name.com,,,
+deb33f58-6b93-4593-98cf-07a7c6977f4a,liii.finance,available,11.99,84.99,low,low,4,name.com,,,
