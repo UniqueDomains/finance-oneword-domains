@@ -1,10 +1,10 @@
-# Available .FINANCE One-Word Domains (19,855)
+# Available .FINANCE One-Word Domains (20,061)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-19%2C855%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-20%2C061%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .finance one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **19,855 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **20,061 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 19,855 domains · **Median ask:** $18.71 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 20,061 domains · **Median ask:** $18.78 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-26
+**Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/finance`
 **Best for:** founders, investors, studios
 
@@ -68,7 +68,7 @@ print(df.head())
 | intersection.finance | resell    | $15.99    | —             | high           | low    | 12     | Porkbun LLC          |
 | cpr.finance          | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo             |
 | ail.finance          | available | $17.48    | $82.98        | high           | low    | 3      | namecheap            |
-| eon.finance          | resell    | —         | —             | high           | low    | 3      | —                    |
+| eon.finance          | resell    | —         | —             | high           | low    | 3      | Dynadot Inc          |
 | baht.finance         | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo             |
 | atp.finance          | available | $15.99    | —             | high           | low    | 3      | name.com             |
 | net.finance          | resell    | —         | —             | high           | medium | 3      | Porkbun LLC          |
@@ -77,7 +77,7 @@ print(df.head())
 | she.finance          | resell    | —         | —             | high           | low    | 3      | Atom.com Domains LLC |
 | used.finance         | premium   | $242      | $242          | high           | low    | 4      | namesilo             |
 | bib.finance          | available | $20.99    | $64.99        | high           | low    | 3      | namesilo             |
-| cash.finance         | resell    | —         | —             | high           | medium | 4      | —                    |
+| cash.finance         | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC     |
 | motel.finance        | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo             |
 | clv.finance          | available | $11.99    | $84.99        | high           | low    | 3      | name.com             |
 | core.finance         | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.      |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 19,855 live domains                        |
+| 1,000-row public sample | 20,061 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FINANCE One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FINANCE One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
